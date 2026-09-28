@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>附近的值，正在靠近哪里？｜专注阅读样张</title>
+  <link rel="stylesheet" href="vendor/katex/katex.min.css">
+  <link rel="stylesheet" href="focus-reading.css">
+</head>
+<body>
+  <a class="skip" href="#lesson">跳到正在阅读的内容</a>
+  <div class="page">
+    <header class="masthead">
+      <div class="edition"><span>数学研读 / 独立阅读样张</span><a href="函数极限连续-样张.html">对照原版讲义 ↗</a></div>
+      <div class="headline"><div><p class="eyebrow">第一章 · 极限入门</p><h1>附近的值，正在靠近哪里？</h1><p class="intro">从一个简单算式开始，把“极限”和“函数值”分清楚。</p></div><p class="issue">一个问题<br>四个小节</p></div>
+    </header>
+    <div id="resume" class="resume" hidden></div>
+    <div class="layout">
+      <aside class="rail" aria-label="阅读路线">
+        <p class="rail-label">这一小课</p>
+        <nav id="steps" aria-label="小节目录">
+          <a href="#part-0" data-step="0"><span>01</span><span>先算几个数</span><span class="done"></span></a>
+          <a href="#part-1" data-step="1"><span>02</span><span>为什么少一个点</span><span class="done"></span></a>
+          <a href="#part-2" data-step="2"><span>03</span><span>看两边怎样靠近</span><span class="done"></span></a>
+          <a href="#part-3" data-step="3"><span>04</span><span>用一道题分清楚</span><span class="done"></span></a>
+        </nav>
+        <div id="reading-tools" hidden>
+          <p id="progress-text">已确认理解 0 / 4 节</p><progress id="progress" max="4" value="0" aria-label="已确认理解的小节数"></progress>
+          <button id="mode" class="text-button" type="button" aria-pressed="true">专注阅读：已开启</button>
+          <p class="quiet">一次看一节。关闭后可浏览全文，随时切换。</p>
+          <p id="save-note" class="quiet">阅读位置保存在当前浏览器。</p>
+        </div>
+      </aside>
+      <main id="lesson" tabindex="-1">
+        <section id="part-0" data-unit="0" aria-labelledby="title-0">
+          <p class="section-number">01 / 04 · 先建立直觉</p><h2 id="title-0" tabindex="-1">输入换了，输出怎么算？</h2>
+          <p class="goal"><b>这一节只做一件事</b><br>会用“输入加1”这条规则算出输出。</p>
+          <p>把 <span data-math="inline">x</span> 想成你选的数，<span data-math="inline">y</span> 是算出来的数。规则写成 <span data-math="inline">y=x+1</span>，就是“选一个数，再加1”。</p>
+          <div class="number-row" aria-label="输入与输出的三个例子">
+            <div><span>输入 0</span><span aria-hidden="true">↓ 加1</span><b>输出 1</b></div>
+            <div><span>输入 0.9</span><span aria-hidden="true">↓ 加1</span><b>输出 1.9</b></div>
+            <div><span>输入 0.99</span><span aria-hidden="true">↓ 加1</span><b>输出 1.99</b></div>
+          </div>
+          <fieldset class="quick-check" data-question="warmup"><legend>停一下，自己算：输入0.999，输出是多少？</legend><div class="choices"><button type="button" data-answer="wrong">0.999</button><button type="button" data-answer="correct">1.999</button><button type="button" data-answer="near">2</button></div><p class="feedback" aria-live="polite">先选一个答案，再看解释。</p></fieldset>
+          <p class="takeaway"><b>带走一句话</b><br>输入靠近1时，“加1”得到的输出会靠近2。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="0">这节懂了，继续 →</button><span>下一节：原式为什么不能取1？</span></div>
+        </section>
+        <section id="part-1" data-unit="1" aria-labelledby="title-1">
+          <p class="section-number">02 / 04 · 把条件说清楚</p><h2 id="title-1" tabindex="-1">算式看起来一样，能取的数不同</h2>
+          <p class="goal"><b>这一节只做一件事</b><br>弄懂为什么下面这个函数，在输入1时没有输出。</p>
+          <p>现在换一条规则。<span data-math="inline">f(x)</span> 读作“输入x时的函数值”，也就是输出：</p>
+          <div class="formula" data-math="display">f(x)=\frac{x^2-1}{x-1}</div>
+          <ol class="reasoning">
+            <li><b>先试输入1。</b><p>分母变成 <span data-math="inline">1-1=0</span>。除数不能是0，所以原函数没有 <span data-math="inline">f(1)</span> 这个值。</p></li>
+            <li><b>其他输入，可以化简。</b><p>分子能写成 <span data-math="inline">(x-1)(x+1)</span>。乘回去检查：<span data-math="inline">x^2+x-x-1=x^2-1</span>。</p><div class="formula" data-math="display">\frac{(x-1)(x+1)}{x-1}=x+1\quad (x\ne1)</div><p>只有x不等于1时，才能约去不为0的 <span data-math="inline">x-1</span>。</p></li>
+            <li><b>所以，附近仍按“加1”计算。</b><p>输入0.99，输出1.99；输入1.01，输出2.01。但输入恰好等于1时，原式仍然不能计算。</p></li>
+          </ol>
+          <p class="takeaway"><b>带走一句话</b><br>化简保留了附近的计算规则，没有补上原本缺失的那个点。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="1">这节懂了，去看图 →</button><button type="button" class="text-button" data-back="0">← 回看上一节</button></div>
+        </section>
+        <section id="part-2" data-unit="2" aria-labelledby="title-2">
+          <p class="section-number">03 / 04 · 自己控制节奏</p><h2 id="title-2" tabindex="-1">点可以空着，附近却有方向</h2>
+          <p class="goal"><b>这一节只看两件事</b><br>输入是否靠近1？两边的输出是否都靠近2？</p>
+          <p>横轴x看输入，纵轴y看输出。空心圆 <span data-math="inline">(1,2)</span> 表示这个位置缺了一个点；两个实心点表示左右附近的输入和输出。</p>
+          <figure><div data-graph></div><figcaption>原函数的图像：沿着 <span data-math="inline">y=x+1</span>，但不取x＝1。</figcaption></figure>
+          <div class="graph-controls"><button id="closer" class="primary" type="button">再靠近一步 →</button><button id="restart-graph" class="text-button" type="button">回到起点</button><span id="graph-step">观察 1 / 4</span></div>
+          <div id="graph-readout" class="graph-readout" aria-live="polite"><p>左侧：输入 <b>0.200</b> → 输出 <b>1.200</b></p><p>右侧：输入 <b>1.800</b> → 输出 <b>2.800</b></p></div>
+          <p id="graph-note" class="quiet">按一次，靠近一步。没有自动播放，可以停下来比较数字。</p>
+          <details><summary>为什么几次观察，还不等于证明？</summary><p>图只展示有限几个数。真正的理由是：x不等于1时，输出就是x＋1；输入离1有多近，输出就离2有多近。想把输出误差变得更小，只要把输入也靠得更近。这可以一直做下去。</p></details>
+          <p class="takeaway"><b>给刚才的观察一个名字：极限</b><br>“x趋于1时，f(x)的极限是2”，写成 <span data-math="inline">\lim_{x\to1}f(x)=2</span>。它说的是附近的趋势。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="2">这节懂了，试一道题 →</button><button type="button" class="text-button" data-back="1">← 回看上一节</button></div>
+        </section>
+        <section id="part-3" data-unit="3" aria-labelledby="title-3">
+          <p class="section-number">04 / 04 · 用自己的判断收尾</p><h2 id="title-3" tabindex="-1">把缺的点放在7，会改变极限吗？</h2>
+          <p class="goal"><b>这一节只分清两件事</b><br>“这个点真正的值”和“附近正在靠近的值”。</p>
+          <p>我们另定义一个新函数：x不等于1时，仍然按x＋1计算；在x＝1处，单独规定输出是7。</p>
+          <div class="formula" data-math="display">g(x)=\begin{cases}x+1,&x\ne1,\\7,&x=1.\end{cases}</div>
+          <fieldset class="quick-check" data-question="value"><legend>① 恰好输入1，函数值g(1)是多少？</legend><div class="choices"><button type="button" data-answer="wrong">2</button><button type="button" data-answer="correct">7</button><button type="button" data-answer="none">没有定义</button></div><p class="feedback" aria-live="polite">看题目对这个点的单独规定。</p></fieldset>
+          <fieldset class="quick-check" data-question="limit"><legend>② x从左右靠近1时，g(x)的极限是多少？</legend><div class="choices"><button type="button" data-answer="correct">2</button><button type="button" data-answer="wrong">7</button><button type="button" data-answer="none">不存在</button></div><p class="feedback" aria-live="polite">想一想：附近的计算规则变了吗？</p></fieldset>
+          <p id="quiz-summary" class="takeaway" hidden><b>两件事，现在分开了</b><br>函数值是7，极限是2。附近的趋势没有接上这个点，所以这个新函数在x＝1处不连续。</p>
+          <p class="quiet">拿不准，可以回到第3节，再看一次左右两边。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="3">这节懂了，完成这一小课</button><button type="button" class="text-button" data-back="2">← 回图上看看</button></div>
+          <div id="finish" class="finish" hidden tabindex="-1"><h3>这一小课，先学到这里。</h3><p>试着用自己的话说一句：<b>极限看附近，函数值看这个点。</b></p><p>可以休息一下，也可以<a href="函数极限连续-样张.html#continuity">接着读原版的“连续”</a>。回来时，这里会记住你的进度。</p></div>
+        </section>
+        <p id="reader-status" class="reader-status" role="status"></p>
+      </main>
+    </div>
+    <footer><span>专注阅读样张 · 极限入门</span><button id="reset-sample" class="text-button" type="button">重置样张进度</button></footer>
+  </div>
+  <script data-interactions></script>
+</body>
+</html>

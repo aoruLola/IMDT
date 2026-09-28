@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" role="img" aria-labelledby="approach-title approach-desc"><title id="approach-title">从两边靠近同一个点</title><desc id="approach-desc">直线y=x+1在(1,2)处有一个空心点。左边的点从(0.2,1.2)出发，右边的点从(1.8,2.8)出发，都可以沿直线靠近(1,2)，但不取x=1。</desc><style>text{font-family:"Microsoft YaHei",sans-serif;fill:#242923;font-size:20px}.axis{fill:none;stroke:#8c9389;stroke-width:1.4}.guide{fill:none;stroke:#a8b5aa;stroke-width:1.5;stroke-dasharray:5 5}.curve{fill:none;stroke:#365d49;stroke-width:3}.point{fill:#365d49;stroke:#f8f7f3;stroke-width:2}.hole{fill:#f8f7f3;stroke:#365d49;stroke-width:3}</style><path class="axis" d="M60 30V280H525"/><path class="axis" d="M55 40L60 30L65 40M515 275L525 280L515 285"/><text x="535" y="287">x</text><text x="35" y="32">y</text><text x="40" y="303">0</text><path class="guide" d="M280 280V45"/><text x="273" y="305">1</text>
+    <path class="guide" d="M60 130H500"/><text x="34" y="137">2</text>
+    <path class="curve" d="M60 205L500 55"/>
+    <circle data-role="left-dot" class="point" cx="104" cy="190" r="7"/>
+    <circle data-role="right-dot" class="point" cx="456" cy="70" r="7"/>
+    <circle class="hole" cx="280" cy="130" r="7"/>
+    <text x="302" y="117">(1, 2)</text><text x="360" y="220">y = x + 1</text></svg>

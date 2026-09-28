@@ -1,0 +1,23 @@
+{
+  "name": "math2-teaching-course",
+  "private": true,
+  "scripts": {
+    "setup": "npm ci && npm ci --prefix content/样张/tooling",
+    "build": "npm run build:content && npm run build:vue",
+    "check": "node content/课程/tooling/check.cjs && node content/课程/tooling/check-diagrams.cjs && node content/课程/tooling/check-study.cjs && node content/课程/tooling/check-fusion.cjs && node content/843/tooling/check.cjs && node content/843/tooling/check-isolation.cjs",
+    "preview": "node scripts/preview-static.cjs",
+    "build:content": "node content/样张/tooling/build.cjs && node content/样张/tooling/build-focus.cjs && node content/课程/tooling/build.cjs && node content/843/tooling/author.cjs && node content/课程/tooling/build.cjs content/843 && npm run check",
+    "build:vue": "node scripts/assemble-static.cjs && vite build && node scripts/check-static.cjs && node scripts/check-vue.cjs",
+    "preview:legacy": "node content/课程/tooling/preview.cjs",
+    "package": "npm run build && node scripts/package-static.cjs",
+    "knowledge-base": "node scripts/build-knowledge-base.cjs"
+  },
+  "dependencies": {
+    "vue": "^3.5.43"
+  },
+  "devDependencies": {
+    "fflate": "^0.8.3",
+    "vite": "^7.3.6",
+    "@vitejs/plugin-vue": "^6.0.9"
+  }
+}

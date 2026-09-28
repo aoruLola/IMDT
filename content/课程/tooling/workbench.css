@@ -1,0 +1,38 @@
+/* Workbench styles — keep newspaper paper/ink language, math2 green accent. */
+.wb-block{padding:28px 0;border-top:1px solid var(--line)}
+.wb-block h2{margin-bottom:12px}
+.wb-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px 24px;margin-bottom:16px}
+.wb-grid label,.wb-form label{display:flex;flex-direction:column;gap:6px;font-size:15px;color:var(--muted)}
+.wb-grid input,.wb-form input,.wb-form select,.wb-filters input,.wb-filters select{
+  font:inherit;padding:8px 10px;border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:2px
+}
+.wb-form{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px 18px;align-items:end;margin-bottom:18px}
+.wb-form .wb-span{grid-column:1/-1}
+.wb-form button{justify-self:start}
+.wb-tasks,.wb-list{list-style:none;margin:0;padding:0}
+.wb-task,.wb-error{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:baseline;padding:14px 0;border-top:1px solid var(--line)}
+.wb-task[data-done=true]{opacity:.55}
+.wb-task a{font-weight:600}
+.wb-error{display:block}
+.wb-error[data-resolved=true]{opacity:.55}
+.wb-error label{display:inline-flex;gap:8px;align-items:center;margin-right:12px}
+.wb-error p{margin:8px 0 0}
+.wb-progress-grid .wb-card{border:1px solid var(--line);padding:18px 20px;background:var(--wash)}
+.wb-progress-grid .wb-card h3{margin:0 0 10px}
+.wb-progress-grid .wb-card p{margin:0 0 8px}
+.wb-filters{display:flex;gap:18px;flex-wrap:wrap;margin-bottom:18px}
+.wb-filters label{display:flex;flex-direction:column;gap:6px;font-size:15px;color:var(--muted);min-width:180px}
+.wb-points{display:grid;gap:0}
+.wb-point{padding:18px 0;border-top:1px solid var(--line)}
+.wb-point h3{margin:6px 0 8px;font-size:18px}
+.wb-point .eyebrow{margin-bottom:6px}
+.wb-status{display:inline-block;padding:2px 8px;border:1px solid var(--line);border-radius:2px;font-size:13px;margin-right:8px}
+.wb-status-bound{color:var(--green);border-color:var(--green);background:var(--wash)}
+.wb-status-unbound-body{color:#8a5a12;border-color:#d2c2a0}
+.wb-status-index-only{color:var(--muted)}
+.wb-score-trend{margin:12px 0 20px;border:1px solid var(--line);padding:12px;background:var(--wash)}
+.wb-score-trend svg{display:block;max-width:100%;height:auto}
+.wb-actions{display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+.wb-file{display:inline-flex;gap:10px;align-items:center;color:var(--green)}
+.wb-pre{overflow:auto;max-width:100%;padding:12px;background:var(--wash);border:1px solid var(--line);font-size:13px}
+.wb-error{border-top:1px solid var(--line)}

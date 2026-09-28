@@ -1,0 +1,1926 @@
+{
+  "courseId": "843",
+  "basePath": "/843/",
+  "displayName": "843",
+  "title": "互联网＋创新设计专业基础综合",
+  "target": "2027 清华大学深圳国际研究生院 / 843",
+  "symbolLesson": "843-symbols",
+  "theme": {
+    "accent": "#365674",
+    "wash": "#EDF1F5"
+  },
+  "storage": {
+    "reading": "843-course-v1",
+    "study": "843-study-v1",
+    "parts": "843-reading-part-v1:"
+  },
+  "syllabus": {
+    "version": "2027",
+    "url": "https://www.sigs.tsinghua.edu.cn/_upload/article/files/7b/63/cdcae132405782b04f99d0df5560/f2c7f4b1-99d1-4d36-81d4-32977952b790.pdf",
+    "checked": "2026-09-16",
+    "status": "依据已核验的2027官方大纲；教学细分与原创训练不等同于官方逐项要求。"
+  },
+  "sources": [
+    {
+      "id": "ieee",
+      "title": "Oracle Numerical Computation Guide：IEEE浮点格式",
+      "url": "https://docs.oracle.com/cd/E19957-01/806-3568/ncg_math.html",
+      "status": "核对binary32正常数公式、1/8/23位分配与特殊指数用途；仅作技术解释来源。"
+    },
+    {
+      "id": "syllabus",
+      "title": "清华大学深圳国际研究生院 2027 年 843 官方大纲（3页）",
+      "url": "https://www.sigs.tsinghua.edu.cn/_upload/article/files/7b/63/cdcae132405782b04f99d0df5560/f2c7f4b1-99d1-4d36-81d4-32977952b790.pdf",
+      "status": "已取得全文并核对页面；扫描缺字已依据页面图像核对。信息技术100分、创新设计50分，未规定本课模拟卷的题型细分配分。"
+    },
+    {
+      "id": "software",
+      "title": "徐士良、葛兵《计算机软件技术基础》第5版，清华大学出版社，2025年4月，ISBN 9787302685364",
+      "url": "https://www.tup.tsinghua.edu.cn/booksCenter/book_10716601.html",
+      "status": "已核对出版社书目信息和目录。未取得教材全文；未声称逐页核对。按7章主题展开原创授课，不使用旧版书目替代。"
+    },
+    {
+      "id": "hardware",
+      "title": "李继灿《计算机硬件技术基础》第4版，2024年8月",
+      "url": "https://www.sigs.tsinghua.edu.cn/_upload/article/files/7b/63/cdcae132405782b04f99d0df5560/f2c7f4b1-99d1-4d36-81d4-32977952b790.pdf#page=1",
+      "status": "书目据官方大纲第1页；未取得教材全文，正文为基础概念原创讲解。"
+    },
+    {
+      "id": "probability",
+      "title": "谢安、李冬红《概率论与数理统计》，清华大学出版社，2012年7月",
+      "url": "https://www.sigs.tsinghua.edu.cn/_upload/article/files/7b/63/cdcae132405782b04f99d0df5560/f2c7f4b1-99d1-4d36-81d4-32977952b790.pdf#page=1",
+      "status": "书目据官方大纲；未取得教材全文。估计与检验只作延伸用途介绍，不扩大统计必修范围。"
+    },
+    {
+      "id": "structures",
+      "title": "李冬梅、严蔚敏、吴伟民《数据结构（C语言版）》第3版，人民邮电出版社，2024年10月",
+      "url": "https://www.sigs.tsinghua.edu.cn/_upload/article/files/7b/63/cdcae132405782b04f99d0df5560/f2c7f4b1-99d1-4d36-81d4-32977952b790.pdf#page=1",
+      "status": "书目据官方大纲；未取得教材全文，算法约定与教学示例在正文逐项说明。"
+    },
+    {
+      "id": "linear",
+      "title": "同济大学数学系《线性代数》，人民邮电出版社，2017年1月",
+      "url": "https://www.sigs.tsinghua.edu.cn/_upload/article/files/7b/63/cdcae132405782b04f99d0df5560/f2c7f4b1-99d1-4d36-81d4-32977952b790.pdf#page=2",
+      "status": "书目据官方大纲；复用本站数学二原创且已核算正文，843有独立完整页面。未加入特征值、二次型等数学二后续章。"
+    },
+    {
+      "id": "designbook",
+      "title": "李砚祖《艺术设计概论》，湖北美术出版社",
+      "url": "https://www.sigs.tsinghua.edu.cn/_upload/article/files/7b/63/cdcae132405782b04f99d0df5560/f2c7f4b1-99d1-4d36-81d4-32977952b790.pdf#page=2",
+      "status": "书目据官方大纲；未取得全文。概念分析为原创教学归纳，历史事实另以机构资料核对。"
+    },
+    {
+      "id": "mediabook",
+      "title": "李四达《数字媒体艺术概论》第4版，清华大学出版社，2020年1月",
+      "url": "https://www.tup.tsinghua.edu.cn/bookscenter/book_08214002.html",
+      "status": "出版社信息与公开目录已核对；ISBN 9787302534402。未取得全文，未声称逐页核对。"
+    },
+    {
+      "id": "bauhaus",
+      "title": "Bauhaus-Archiv：包豪斯学校历史",
+      "url": "https://www.bauhaus.de/de/das_bauhaus/",
+      "status": "核对1919—1933及学校跨艺术、工艺与设计教育背景。"
+    },
+    {
+      "id": "morris",
+      "title": "V&A：Arts and Crafts — an introduction",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "status": "核对工艺美术运动背景与制作、社会关系；正文为简述与原创分析。"
+    },
+    {
+      "id": "paik",
+      "title": "美国国家艺术基金会：Nam June Paik",
+      "url": "https://www.arts.gov/stories/magazine/2012/4/arts-technology/nam-june-paik",
+      "status": "核对TV Buddha 1974与闭路摄像机制；不复制原作图，教学图为原创示意。"
+    },
+    {
+      "id": "molnar",
+      "title": "V&A：Degrees of Disruption — Vera Molnar and Generative Art",
+      "url": "https://www.vam.ac.uk/exhibitions/degrees-of-disruption-vera-molnar-and-generative-art",
+      "status": "核对艺术家算法实践与1985年作品条目；扰动练习是本站原创。"
+    },
+    {
+      "id": "designcouncil",
+      "title": "Design Council：Framework for Innovation",
+      "url": "https://www.designcouncil.org.uk/resources/framework-for-innovation/",
+      "status": "核对双钻发散收敛、发现定义发展交付和迭代含义；本课图为原创简化示意。"
+    },
+    {
+      "id": "sql",
+      "title": "SQLite 官方：SELECT",
+      "url": "https://www.sqlite.org/lang_select.html",
+      "status": "查询语义参考；本站固定样本使用SQLite实际执行校验，未要求在线数据库服务。"
+    },
+    {
+      "id": "ai",
+      "title": "Google Machine Learning Crash Course：Overfitting",
+      "url": "https://developers.google.com/machine-learning/crash-course/overfitting/overfitting",
+      "status": "技术术语辅助核对；生成式AI一节为基础概述，不代表具体产品功能或性能承诺。"
+    },
+    {
+      "id": "original",
+      "title": "本站原创教学情境、训练与绘图示范",
+      "url": "cases.html",
+      "status": "六案例、全部843练习及两套模拟卷均原创。未收录不能核验年份题号与来源的真题；自评标准与模拟配分非官方评分细则。"
+    }
+  ],
+  "legacy": {},
+  "chapters": [
+    {
+      "id": "843-00-prep",
+      "number": 0,
+      "title": "预备篇：读懂符号与程序",
+      "kind": "预备基础",
+      "refs": [
+        "syllabus",
+        "software"
+      ],
+      "file": "chapters/00-prep.md",
+      "lessons": [
+        {
+          "id": "843-symbols",
+          "title": "把符号读成一句话",
+          "topics": [
+            "集合",
+            "逻辑",
+            "求和",
+            "函数"
+          ],
+          "prerequisites": [],
+          "scope": "预备基础",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ]
+        },
+        {
+          "id": "843-counting",
+          "title": "先数清可能性：排列与组合",
+          "topics": [
+            "加法原理",
+            "乘法原理",
+            "排列",
+            "组合"
+          ],
+          "prerequisites": [
+            "843-symbols"
+          ],
+          "scope": "预备基础",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ]
+        },
+        {
+          "id": "843-c-control",
+          "title": "让计算机按顺序做事",
+          "topics": [
+            "变量",
+            "类型",
+            "赋值",
+            "分支",
+            "循环",
+            "函数"
+          ],
+          "prerequisites": [
+            "843-counting"
+          ],
+          "scope": "预备基础",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ],
+          "visual": "loop",
+          "code": true
+        },
+        {
+          "id": "843-c-memory",
+          "title": "数组、指针与结构体怎样配合",
+          "topics": [
+            "数组",
+            "地址",
+            "指针",
+            "结构体",
+            "空指针"
+          ],
+          "prerequisites": [
+            "843-c-control"
+          ],
+          "scope": "预备基础",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ],
+          "visual": "list",
+          "code": true
+        }
+      ]
+    },
+    {
+      "id": "843-01-probability",
+      "number": 1,
+      "title": "概率：从可能性到可信判断",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "probability"
+      ],
+      "file": "chapters/01-probability.md",
+      "lessons": [
+        {
+          "id": "843-events",
+          "title": "事件怎样合并与计数",
+          "topics": [
+            "样本空间",
+            "事件运算",
+            "古典概率",
+            "加法公式"
+          ],
+          "prerequisites": [
+            "843-counting"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ],
+          "visual": "probability"
+        },
+        {
+          "id": "843-conditional",
+          "title": "知道新信息后，概率会变",
+          "topics": [
+            "条件概率",
+            "乘法公式",
+            "独立性"
+          ],
+          "prerequisites": [
+            "843-events"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ]
+        },
+        {
+          "id": "843-bayes",
+          "title": "全概率与贝叶斯：从结果追原因",
+          "topics": [
+            "划分",
+            "全概率公式",
+            "贝叶斯公式",
+            "基准率"
+          ],
+          "prerequisites": [
+            "843-conditional"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ],
+          "visual": "bayes"
+        }
+      ]
+    },
+    {
+      "id": "843-02-random",
+      "number": 2,
+      "title": "随机变量：给不确定性一个数",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "probability"
+      ],
+      "file": "chapters/02-random.md",
+      "lessons": [
+        {
+          "id": "843-distribution",
+          "title": "分布表、密度与分布函数",
+          "topics": [
+            "随机变量",
+            "分布律",
+            "分布函数",
+            "概率密度"
+          ],
+          "prerequisites": [
+            "843-conditional"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ],
+          "visual": "distribution"
+        },
+        {
+          "id": "843-models",
+          "title": "选择常见概率模型",
+          "topics": [
+            "伯努利",
+            "二项",
+            "泊松",
+            "均匀",
+            "指数",
+            "正态"
+          ],
+          "prerequisites": [
+            "843-distribution"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ],
+          "visual": "distribution"
+        },
+        {
+          "id": "843-joint",
+          "title": "两个变量与变量变换",
+          "topics": [
+            "联合分布",
+            "边缘分布",
+            "独立",
+            "随机变量函数"
+          ],
+          "prerequisites": [
+            "843-models"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ]
+        },
+        {
+          "id": "843-moments",
+          "title": "平均水平与波动：期望、方差和相关",
+          "topics": [
+            "期望",
+            "方差",
+            "协方差",
+            "相关系数"
+          ],
+          "prerequisites": [
+            "843-joint"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ]
+        },
+        {
+          "id": "843-more-models",
+          "title": "等待次数、不放回抽取与连续变换",
+          "topics": [
+            "几何分布",
+            "超几何分布",
+            "连续变量变换",
+            "联合密度"
+          ],
+          "prerequisites": [
+            "843-moments"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ],
+          "visual": "distribution"
+        }
+      ]
+    },
+    {
+      "id": "843-03-statistics",
+      "number": 3,
+      "title": "统计基础：从样本认识总体",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "probability"
+      ],
+      "file": "chapters/03-statistics.md",
+      "lessons": [
+        {
+          "id": "843-sampling",
+          "title": "总体、样本与统计量",
+          "topics": [
+            "总体",
+            "随机样本",
+            "抽样偏差",
+            "统计量"
+          ],
+          "prerequisites": [
+            "843-moments"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ]
+        },
+        {
+          "id": "843-sample-distributions",
+          "title": "样本均值、样本方差与抽样分布",
+          "topics": [
+            "样本均值",
+            "无偏样本方差",
+            "正态抽样",
+            "卡方",
+            "t",
+            "F"
+          ],
+          "prerequisites": [
+            "843-sampling"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "probability"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "843-04-linear",
+      "number": 4,
+      "title": "线性代数：把多个约束一起解",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "linear"
+      ],
+      "file": "chapters/04-linear.md",
+      "lessons": [
+        {
+          "id": "843-matrix-entry",
+          "title": "方程组与矩阵：把系数排成表",
+          "topics": [
+            "矩阵定义",
+            "特殊矩阵",
+            "矩阵相等",
+            "加法与数乘"
+          ],
+          "prerequisites": [
+            "843-symbols"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-matrix-product",
+          "title": "矩阵乘法、转置与分块",
+          "topics": [
+            "矩阵乘法",
+            "矩阵幂",
+            "转置法则",
+            "分块矩阵"
+          ],
+          "prerequisites": [
+            "843-matrix-entry"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": "matrix"
+        },
+        {
+          "id": "843-elimination",
+          "title": "初等行变换与阶梯形",
+          "topics": [
+            "初等变换",
+            "初等矩阵",
+            "行阶梯形",
+            "行最简形",
+            "矩阵秩"
+          ],
+          "prerequisites": [
+            "843-matrix-product"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": "elimination"
+        },
+        {
+          "id": "843-determinant",
+          "title": "行列式：方阵对应的一个数",
+          "topics": [
+            "行列式定义",
+            "排列逆序",
+            "二三阶计算",
+            "行列式性质"
+          ],
+          "prerequisites": [
+            "843-elimination"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-cofactor-inverse",
+          "title": "按行展开、伴随与求逆",
+          "topics": [
+            "余子式",
+            "代数余子式",
+            "展开定理",
+            "伴随矩阵",
+            "逆矩阵"
+          ],
+          "prerequisites": [
+            "843-determinant"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-cramer",
+          "title": "克拉默法则与矩阵方程",
+          "topics": [
+            "克拉默法则",
+            "矩阵方程",
+            "逆矩阵应用"
+          ],
+          "prerequisites": [
+            "843-cofactor-inverse"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-span",
+          "title": "线性组合与相关无关",
+          "topics": [
+            "n维向量",
+            "线性组合",
+            "线性表示",
+            "线性相关",
+            "线性无关"
+          ],
+          "prerequisites": [
+            "843-cramer"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-rank-basis",
+          "title": "极大无关组、秩与子式",
+          "topics": [
+            "极大线性无关组",
+            "向量组秩",
+            "等价向量组",
+            "矩阵秩",
+            "秩的性质"
+          ],
+          "prerequisites": [
+            "843-span"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-homogeneous-system",
+          "title": "齐次方程与基础解系",
+          "topics": [
+            "齐次方程非零解条件",
+            "自由变量",
+            "基础解系",
+            "解空间维数"
+          ],
+          "prerequisites": [
+            "843-rank-basis"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-nonhomogeneous-system",
+          "title": "非齐次方程与公共解",
+          "topics": [
+            "有解判别",
+            "唯一与无穷多解",
+            "特解加齐次解",
+            "公共解"
+          ],
+          "prerequisites": [
+            "843-homogeneous-system"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        },
+        {
+          "id": "843-parameter-system",
+          "title": "含参数方程组与秩讨论",
+          "topics": [
+            "参数讨论",
+            "临界值",
+            "秩与解结构综合"
+          ],
+          "prerequisites": [
+            "843-nonhomogeneous-system"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "linear"
+          ],
+          "visual": null
+        }
+      ]
+    },
+    {
+      "id": "843-05-hardware",
+      "number": 5,
+      "title": "信息表示与硬件：数字怎样成为动作",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "hardware"
+      ],
+      "file": "chapters/05-hardware.md",
+      "lessons": [
+        {
+          "id": "843-bases",
+          "title": "二进制、编码与数值范围",
+          "topics": [
+            "进制",
+            "补码",
+            "字符",
+            "Unicode",
+            "定点",
+            "浮点"
+          ],
+          "prerequisites": [
+            "843-symbols"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "hardware"
+          ],
+          "visual": "encoding"
+        },
+        {
+          "id": "843-logic",
+          "title": "逻辑门与组合电路",
+          "topics": [
+            "与或非",
+            "异或",
+            "真值表",
+            "布尔逻辑"
+          ],
+          "prerequisites": [
+            "843-bases"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "hardware"
+          ]
+        },
+        {
+          "id": "843-cpu",
+          "title": "一条指令怎样执行",
+          "topics": [
+            "CPU",
+            "控制器",
+            "运算器",
+            "寄存器",
+            "存储层次",
+            "总线",
+            "输入输出",
+            "中断"
+          ],
+          "prerequisites": [
+            "843-logic"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "hardware"
+          ],
+          "visual": "cpu"
+        },
+        {
+          "id": "843-floating",
+          "title": "定点与浮点：小数也需要编码",
+          "topics": [
+            "二进制小数",
+            "规格化",
+            "IEEE 754基础",
+            "舍入",
+            "误差"
+          ],
+          "prerequisites": [
+            "843-cpu"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "hardware",
+            "ieee"
+          ],
+          "visual": "encoding"
+        }
+      ]
+    },
+    {
+      "id": "843-06-linear-structures",
+      "number": 6,
+      "title": "算法与线性结构：让步骤可执行",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "software",
+        "structures"
+      ],
+      "file": "chapters/06-linear-structures.md",
+      "lessons": [
+        {
+          "id": "843-algorithm",
+          "title": "算法、复杂度与递归",
+          "topics": [
+            "算法",
+            "伪代码",
+            "时间复杂度",
+            "空间复杂度",
+            "递归"
+          ],
+          "prerequisites": [
+            "843-c-memory",
+            "843-c-control"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "recursion"
+        },
+        {
+          "id": "843-lists",
+          "title": "顺序表与链表：搬元素还是改指针",
+          "topics": [
+            "线性表",
+            "顺序表",
+            "单链表",
+            "插入",
+            "删除"
+          ],
+          "prerequisites": [
+            "843-algorithm"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "list",
+          "code": true
+        },
+        {
+          "id": "843-stack-queue",
+          "title": "栈与队列：不同的出场顺序",
+          "topics": [
+            "栈",
+            "队列",
+            "循环队列",
+            "括号匹配"
+          ],
+          "prerequisites": [
+            "843-lists"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "queue"
+        },
+        {
+          "id": "843-strings-arrays",
+          "title": "串、数组与稀疏矩阵",
+          "topics": [
+            "串",
+            "模式匹配",
+            "KMP直觉",
+            "多维数组",
+            "稀疏矩阵"
+          ],
+          "prerequisites": [
+            "843-stack-queue"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "843-07-trees-graphs",
+      "number": 7,
+      "title": "非线性结构、查找与排序",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "software",
+        "structures"
+      ],
+      "file": "chapters/07-trees-graphs.md",
+      "lessons": [
+        {
+          "id": "843-trees",
+          "title": "树、二叉树与遍历",
+          "topics": [
+            "树",
+            "二叉树",
+            "完全二叉树",
+            "遍历",
+            "二叉搜索树"
+          ],
+          "prerequisites": [
+            "843-algorithm",
+            "843-stack-queue"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "tree"
+        },
+        {
+          "id": "843-huffman",
+          "title": "哈夫曼树：让常见符号更短",
+          "topics": [
+            "带权路径长度",
+            "哈夫曼编码",
+            "前缀码"
+          ],
+          "prerequisites": [
+            "843-trees"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "huffman"
+        },
+        {
+          "id": "843-graphs",
+          "title": "图的表示、遍历与拓扑次序",
+          "topics": [
+            "有向无向图",
+            "邻接矩阵",
+            "邻接表",
+            "DFS",
+            "BFS",
+            "拓扑排序"
+          ],
+          "prerequisites": [
+            "843-huffman"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "graph"
+        },
+        {
+          "id": "843-graph-paths",
+          "title": "最短路径与最小生成树",
+          "topics": [
+            "Dijkstra",
+            "Floyd",
+            "Prim",
+            "Kruskal",
+            "生成树"
+          ],
+          "prerequisites": [
+            "843-graphs"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "weighted"
+        },
+        {
+          "id": "843-search",
+          "title": "顺序查找、二分与散列",
+          "topics": [
+            "顺序查找",
+            "二分",
+            "散列",
+            "冲突",
+            "装填因子"
+          ],
+          "prerequisites": [
+            "843-graph-paths"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "code": true
+        },
+        {
+          "id": "843-sorting",
+          "title": "排序过程、稳定性与取舍",
+          "topics": [
+            "插入",
+            "冒泡",
+            "选择",
+            "快排",
+            "归并",
+            "堆排",
+            "希尔",
+            "基数",
+            "稳定性"
+          ],
+          "prerequisites": [
+            "843-search"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "sort",
+          "code": true
+        },
+        {
+          "id": "843-divide-sort",
+          "title": "快速排序与归并：分开，再合起来",
+          "topics": [
+            "分区",
+            "快排",
+            "归并",
+            "分治",
+            "递归边界"
+          ],
+          "prerequisites": [
+            "843-sorting"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "quick"
+        },
+        {
+          "id": "843-heap-radix",
+          "title": "堆、希尔与基数：不同的排序机制",
+          "topics": [
+            "大根堆",
+            "堆调整",
+            "堆排序",
+            "希尔排序",
+            "LSD基数排序"
+          ],
+          "prerequisites": [
+            "843-divide-sort"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "heap"
+        },
+        {
+          "id": "843-graph-matrix",
+          "title": "用中转点与割边完成图算法",
+          "topics": [
+            "Floyd过程",
+            "Prim过程",
+            "负边",
+            "负环",
+            "连通性"
+          ],
+          "prerequisites": [
+            "843-heap-radix"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "structures"
+          ],
+          "visual": "weighted"
+        }
+      ]
+    },
+    {
+      "id": "843-08-resources",
+      "number": 8,
+      "title": "资源管理：让多个任务有序共处",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "software"
+      ],
+      "file": "chapters/08-resources.md",
+      "lessons": [
+        {
+          "id": "843-processes",
+          "title": "进程、状态与调度",
+          "topics": [
+            "进程",
+            "线程",
+            "就绪运行阻塞",
+            "调度",
+            "周转时间"
+          ],
+          "prerequisites": [
+            "843-cpu",
+            "843-stack-queue"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ],
+          "visual": "process"
+        },
+        {
+          "id": "843-synchronization",
+          "title": "互斥、同步与死锁",
+          "topics": [
+            "临界区",
+            "信号量",
+            "生产消费",
+            "死锁条件",
+            "安全状态"
+          ],
+          "prerequisites": [
+            "843-processes"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ],
+          "visual": "resource"
+        },
+        {
+          "id": "843-memory-files",
+          "title": "内存、文件与设备怎样管理",
+          "topics": [
+            "分页",
+            "地址转换",
+            "缺页",
+            "FIFO",
+            "LRU",
+            "文件",
+            "目录",
+            "设备管理"
+          ],
+          "prerequisites": [
+            "843-synchronization"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ],
+          "visual": "memory"
+        }
+      ]
+    },
+    {
+      "id": "843-09-database",
+      "number": 9,
+      "title": "数据库：把事实存得清楚、查得准确",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "software",
+        "sql"
+      ],
+      "file": "chapters/09-database.md",
+      "lessons": [
+        {
+          "id": "843-relational",
+          "title": "关系、键与关系操作",
+          "topics": [
+            "关系模型",
+            "主键",
+            "候选键",
+            "外键",
+            "选择投影连接",
+            "完整性"
+          ],
+          "prerequisites": [
+            "843-symbols"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "sql"
+          ],
+          "visual": "database"
+        },
+        {
+          "id": "843-sql",
+          "title": "从查询到分组：读懂SQL",
+          "topics": [
+            "SELECT",
+            "WHERE",
+            "JOIN",
+            "GROUP BY",
+            "HAVING",
+            "聚合",
+            "更新",
+            "事务"
+          ],
+          "prerequisites": [
+            "843-relational"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "sql"
+          ],
+          "code": true
+        },
+        {
+          "id": "843-normalization",
+          "title": "函数依赖、规范化与ER设计",
+          "topics": [
+            "函数依赖",
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF",
+            "ER",
+            "设计流程"
+          ],
+          "prerequisites": [
+            "843-sql"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "sql"
+          ],
+          "visual": "database"
+        }
+      ]
+    },
+    {
+      "id": "843-10-software",
+      "number": 10,
+      "title": "软件设计与开发：从需求到可靠服务",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "software"
+      ],
+      "file": "chapters/10-software.md",
+      "lessons": [
+        {
+          "id": "843-requirements",
+          "title": "需求、模块与接口",
+          "topics": [
+            "功能需求",
+            "非功能需求",
+            "结构化",
+            "面向对象",
+            "模块",
+            "接口"
+          ],
+          "prerequisites": [
+            "843-c-control",
+            "843-relational"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ],
+          "visual": "software"
+        },
+        {
+          "id": "843-lifecycle-testing",
+          "title": "开发流程、测试与维护",
+          "topics": [
+            "瀑布",
+            "迭代",
+            "原型",
+            "黑盒",
+            "白盒",
+            "边界",
+            "回归",
+            "维护"
+          ],
+          "prerequisites": [
+            "843-requirements"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ]
+        },
+        {
+          "id": "843-architecture",
+          "title": "互联网应用如何连接",
+          "topics": [
+            "客户端服务器",
+            "HTTP",
+            "API",
+            "数据库",
+            "缓存",
+            "身份",
+            "隐私"
+          ],
+          "prerequisites": [
+            "843-lifecycle-testing"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software"
+          ],
+          "visual": "software"
+        }
+      ]
+    },
+    {
+      "id": "843-11-data-ai",
+      "number": 11,
+      "title": "大数据与人工智能：从数据到有边界的应用",
+      "kind": "信息技术",
+      "refs": [
+        "syllabus",
+        "software",
+        "ai"
+      ],
+      "file": "chapters/11-data-ai.md",
+      "lessons": [
+        {
+          "id": "843-data-pipeline",
+          "title": "数据处理与分布式直觉",
+          "topics": [
+            "数据采集",
+            "清洗",
+            "ETL",
+            "批流",
+            "分布式",
+            "MapReduce"
+          ],
+          "prerequisites": [
+            "843-sample-distributions",
+            "843-relational"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "ai"
+          ],
+          "visual": "pipeline"
+        },
+        {
+          "id": "843-learning",
+          "title": "机器学习任务与训练评估",
+          "topics": [
+            "监督",
+            "无监督",
+            "强化",
+            "分类",
+            "回归",
+            "训练验证测试",
+            "过拟合",
+            "指标"
+          ],
+          "prerequisites": [
+            "843-data-pipeline"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "ai"
+          ],
+          "visual": "pipeline"
+        },
+        {
+          "id": "843-neural-generative",
+          "title": "神经网络、生成式AI与设计应用",
+          "topics": [
+            "神经网络",
+            "损失",
+            "梯度",
+            "生成式AI",
+            "幻觉",
+            "偏差",
+            "人机协作"
+          ],
+          "prerequisites": [
+            "843-learning"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "技术讲解",
+          "references": [
+            "syllabus",
+            "software",
+            "ai"
+          ],
+          "visual": "neural"
+        }
+      ]
+    },
+    {
+      "id": "843-12-design",
+      "number": 12,
+      "title": "艺术设计基础：形式背后的选择",
+      "kind": "创新设计",
+      "refs": [
+        "syllabus",
+        "designbook",
+        "bauhaus",
+        "morris"
+      ],
+      "file": "chapters/12-design.md",
+      "lessons": [
+        {
+          "id": "843-design-function",
+          "title": "设计、艺术、技术与社会",
+          "topics": [
+            "功能",
+            "形式",
+            "审美",
+            "技术",
+            "社会",
+            "系统"
+          ],
+          "prerequisites": [],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designbook",
+            "bauhaus",
+            "morris"
+          ]
+        },
+        {
+          "id": "843-design-history",
+          "title": "理解设计发展，不只背风格名称",
+          "topics": [
+            "工艺美术",
+            "工业化",
+            "包豪斯",
+            "现代设计",
+            "多元与数字转向"
+          ],
+          "prerequisites": [
+            "843-design-function"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designbook",
+            "bauhaus",
+            "morris"
+          ]
+        },
+        {
+          "id": "843-visual-language",
+          "title": "点线面、色彩与信息层级",
+          "topics": [
+            "点线面",
+            "对比",
+            "重复",
+            "对齐",
+            "亲近",
+            "色彩",
+            "版式",
+            "符号"
+          ],
+          "prerequisites": [
+            "843-design-history"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designbook",
+            "bauhaus",
+            "morris"
+          ],
+          "visual": "layout"
+        },
+        {
+          "id": "843-ethics",
+          "title": "伦理、可及性与可持续设计",
+          "topics": [
+            "包容",
+            "无障碍",
+            "隐私",
+            "可持续",
+            "生命周期",
+            "暗黑模式"
+          ],
+          "prerequisites": [
+            "843-visual-language"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designbook",
+            "bauhaus",
+            "morris"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "843-13-media",
+      "number": 13,
+      "title": "数字媒体艺术：媒介怎样参与表达",
+      "kind": "创新设计",
+      "refs": [
+        "syllabus",
+        "mediabook",
+        "paik",
+        "molnar"
+      ],
+      "file": "chapters/13-media.md",
+      "lessons": [
+        {
+          "id": "843-media-types",
+          "title": "从媒介到数字艺术的类型",
+          "topics": [
+            "媒介",
+            "数字化",
+            "网络艺术",
+            "影像",
+            "动画",
+            "游戏",
+            "VR",
+            "AR",
+            "装置"
+          ],
+          "prerequisites": [
+            "843-design-history",
+            "843-visual-language"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "mediabook",
+            "paik",
+            "molnar"
+          ],
+          "visual": "interaction"
+        },
+        {
+          "id": "843-media-history",
+          "title": "从录像反馈到算法艺术：读两件典型实践",
+          "topics": [
+            "录像艺术",
+            "闭路反馈",
+            "生成艺术",
+            "算法美学",
+            "发展脉络"
+          ],
+          "prerequisites": [
+            "843-media-types"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "mediabook",
+            "paik",
+            "molnar"
+          ],
+          "visual": "generative"
+        },
+        {
+          "id": "843-interaction-narrative",
+          "title": "交互、叙事与体验节奏",
+          "topics": [
+            "输入映射",
+            "反馈",
+            "状态",
+            "叙事",
+            "分支",
+            "沉浸",
+            "评价"
+          ],
+          "prerequisites": [
+            "843-media-history"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "mediabook",
+            "paik",
+            "molnar"
+          ],
+          "visual": "storyboard"
+        }
+      ]
+    },
+    {
+      "id": "843-14-innovation",
+      "number": 14,
+      "title": "问题发现与创新方案：用证据推进",
+      "kind": "创新设计",
+      "refs": [
+        "syllabus",
+        "designcouncil"
+      ],
+      "file": "chapters/14-innovation.md",
+      "lessons": [
+        {
+          "id": "843-research",
+          "title": "观察与访谈：先弄清问题",
+          "topics": [
+            "观察",
+            "访谈",
+            "样本",
+            "证据",
+            "事实假设",
+            "研究伦理"
+          ],
+          "prerequisites": [
+            "843-design-function"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designcouncil"
+          ]
+        },
+        {
+          "id": "843-define-ideate",
+          "title": "证据整理、问题界定与创意生成",
+          "topics": [
+            "亲和图",
+            "需求",
+            "洞察",
+            "问题陈述",
+            "发散",
+            "类比",
+            "组合"
+          ],
+          "prerequisites": [
+            "843-research"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designcouncil"
+          ],
+          "visual": "diamond"
+        },
+        {
+          "id": "843-select-prototype",
+          "title": "筛选、用户流程与原型",
+          "topics": [
+            "评价矩阵",
+            "用户流程",
+            "服务蓝图",
+            "低保真",
+            "原型",
+            "可行性"
+          ],
+          "prerequisites": [
+            "843-define-ideate"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designcouncil"
+          ],
+          "visual": "flow"
+        },
+        {
+          "id": "843-evaluate",
+          "title": "评价与迭代：证明改进在哪里",
+          "topics": [
+            "可用性测试",
+            "任务",
+            "指标",
+            "观察",
+            "迭代",
+            "自评"
+          ],
+          "prerequisites": [
+            "843-select-prototype"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "designcouncil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "843-15-sketch",
+      "number": 15,
+      "title": "零基础手绘：把想法画到别人看懂",
+      "kind": "手绘实践",
+      "refs": [
+        "syllabus",
+        "original"
+      ],
+      "file": "chapters/15-sketch.md",
+      "lessons": [
+        {
+          "id": "843-lines-forms",
+          "title": "从线条到基本形体",
+          "topics": [
+            "直线",
+            "椭圆",
+            "方体",
+            "圆柱",
+            "轮廓",
+            "结构",
+            "线宽"
+          ],
+          "prerequisites": [
+            "843-visual-language"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "手绘实践",
+          "references": [
+            "syllabus",
+            "original"
+          ],
+          "visual": "sketch"
+        },
+        {
+          "id": "843-perspective",
+          "title": "比例、透视与构图",
+          "topics": [
+            "视平线",
+            "消失点",
+            "一点透视",
+            "两点透视",
+            "比例",
+            "构图"
+          ],
+          "prerequisites": [
+            "843-lines-forms"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "手绘实践",
+          "references": [
+            "syllabus",
+            "original"
+          ],
+          "visual": "perspective"
+        },
+        {
+          "id": "843-people-scenes",
+          "title": "人物、动作与使用场景",
+          "topics": [
+            "简笔人物",
+            "动作线",
+            "场景",
+            "比例参照",
+            "交互距离"
+          ],
+          "prerequisites": [
+            "843-perspective"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "手绘实践",
+          "references": [
+            "syllabus",
+            "original"
+          ],
+          "visual": "scene"
+        },
+        {
+          "id": "843-ui-story",
+          "title": "界面草图、故事板与流程图",
+          "topics": [
+            "线框图",
+            "界面状态",
+            "故事板",
+            "流程图",
+            "标注"
+          ],
+          "prerequisites": [
+            "843-people-scenes"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "手绘实践",
+          "references": [
+            "syllabus",
+            "original"
+          ],
+          "visual": "wireframe"
+        },
+        {
+          "id": "843-answer-layout",
+          "title": "把方案组织成一张清楚的答卷",
+          "topics": [
+            "答卷布局",
+            "说明文字",
+            "主视图",
+            "细节图",
+            "时间分配",
+            "自检"
+          ],
+          "prerequisites": [
+            "843-ui-story"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "手绘实践",
+          "references": [
+            "syllabus",
+            "original"
+          ],
+          "visual": "layout"
+        }
+      ]
+    },
+    {
+      "id": "843-16-practice",
+      "number": 16,
+      "title": "综合应试：把知识连成完整答案",
+      "kind": "综合训练",
+      "refs": [
+        "syllabus",
+        "original"
+      ],
+      "file": "chapters/16-practice.md",
+      "lessons": [
+        {
+          "id": "843-answer-method",
+          "title": "名词、简答、计算与算法过程题",
+          "topics": [
+            "名词解释",
+            "简答",
+            "计算",
+            "算法",
+            "审题",
+            "检查"
+          ],
+          "prerequisites": [
+            "843-evaluate",
+            "843-answer-layout",
+            "843-neural-generative"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "original"
+          ]
+        },
+        {
+          "id": "843-integrate",
+          "title": "跨模块案例怎样作答",
+          "topics": [
+            "技术选择",
+            "设计推演",
+            "案例分析",
+            "证据链",
+            "综合"
+          ],
+          "prerequisites": [
+            "843-answer-method"
+          ],
+          "scope": "大纲要求的教学展开",
+          "kind": "设计分析",
+          "references": [
+            "syllabus",
+            "original"
+          ]
+        }
+      ]
+    }
+  ]
+}

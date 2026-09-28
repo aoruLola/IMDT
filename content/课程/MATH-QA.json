@@ -1,0 +1,726 @@
+{
+  "passed": true,
+  "engine": "SymPy 1.14.0; mpmath 1.3.0",
+  "checks": 178,
+  "scope": "Independent calculation checks; logical proofs and pedagogical completeness require prose review.",
+  "cases": [
+    {
+      "case": "p-algebra/e1",
+      "result": "passed"
+    },
+    {
+      "case": "p-algebra/e2",
+      "result": "passed"
+    },
+    {
+      "case": "p-algebra/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "p-graph/line",
+      "result": "passed"
+    },
+    {
+      "case": "p-exp/inverse",
+      "result": "passed"
+    },
+    {
+      "case": "p-trig/arcsin",
+      "result": "passed"
+    },
+    {
+      "case": "function/value-min",
+      "result": "passed"
+    },
+    {
+      "case": "properties/cubic-difference",
+      "result": "passed"
+    },
+    {
+      "case": "properties/positive-factor",
+      "result": "passed"
+    },
+    {
+      "case": "limit/linear",
+      "result": "passed"
+    },
+    {
+      "case": "limit/infinity",
+      "result": "passed"
+    },
+    {
+      "case": "sequence/rational",
+      "result": "passed"
+    },
+    {
+      "case": "limit-rules/e1",
+      "result": "passed"
+    },
+    {
+      "case": "limit-rules/e2",
+      "result": "passed"
+    },
+    {
+      "case": "limit-rules/rationalize",
+      "result": "passed"
+    },
+    {
+      "case": "limit-rules/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "important-limits/e1",
+      "result": "passed"
+    },
+    {
+      "case": "important-limits/e2",
+      "result": "passed"
+    },
+    {
+      "case": "important-limits/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "taylor/e1",
+      "result": "passed"
+    },
+    {
+      "case": "taylor/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "lhopital/e1",
+      "result": "passed"
+    },
+    {
+      "case": "lhopital/e2",
+      "result": "passed"
+    },
+    {
+      "case": "mean-training",
+      "result": "passed"
+    },
+    {
+      "case": "review-methods/e1",
+      "result": "passed"
+    },
+    {
+      "case": "review-methods/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "sequence/recurrence-fixed-point",
+      "result": "passed"
+    },
+    {
+      "case": "derivative/definition",
+      "result": "passed"
+    },
+    {
+      "case": "derivative-rules/e1",
+      "result": "passed"
+    },
+    {
+      "case": "derivative-rules/e2",
+      "result": "passed"
+    },
+    {
+      "case": "derivative-rules/arctan",
+      "result": "passed"
+    },
+    {
+      "case": "derivative-rules/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "implicit-parametric/power",
+      "result": "passed"
+    },
+    {
+      "case": "implicit-parametric/second",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/third",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/log-order-1",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/log-order-2",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/log-order-3",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/log-order-4",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/log-order-5",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/log-order-6",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/Leibniz",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/approximation",
+      "result": "passed",
+      "value": 2.01
+    },
+    {
+      "case": "rolle-lagrange/e1",
+      "result": "passed"
+    },
+    {
+      "case": "rolle-lagrange/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "cauchy-proof/e1",
+      "result": "passed"
+    },
+    {
+      "case": "taylor/positive-remainder-below-proved-bound",
+      "result": "passed",
+      "error": 0.00017091807564762482,
+      "bound": 0.0005
+    },
+    {
+      "case": "monotone-extrema/value--2",
+      "result": "passed"
+    },
+    {
+      "case": "monotone-extrema/value--1",
+      "result": "passed"
+    },
+    {
+      "case": "monotone-extrema/value-1",
+      "result": "passed"
+    },
+    {
+      "case": "monotone-extrema/value-2",
+      "result": "passed"
+    },
+    {
+      "case": "monotone-extrema/min",
+      "result": "passed"
+    },
+    {
+      "case": "curvature/parabola-zero",
+      "result": "passed"
+    },
+    {
+      "case": "curvature/parabola-one",
+      "result": "passed"
+    },
+    {
+      "case": "exam12/asymptote-+",
+      "result": "passed"
+    },
+    {
+      "case": "exam12/asymptote--",
+      "result": "passed"
+    },
+    {
+      "case": "optimization/rectangle",
+      "result": "passed"
+    },
+    {
+      "case": "primitive/e1",
+      "result": "passed"
+    },
+    {
+      "case": "primitive/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "substitution/e1",
+      "result": "passed"
+    },
+    {
+      "case": "substitution/e2",
+      "result": "passed"
+    },
+    {
+      "case": "substitution/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "parts/e1",
+      "result": "passed"
+    },
+    {
+      "case": "parts/e2",
+      "result": "passed"
+    },
+    {
+      "case": "parts/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "rational-integrals/e1",
+      "result": "passed"
+    },
+    {
+      "case": "rational-integrals/e2",
+      "result": "passed"
+    },
+    {
+      "case": "rational-integrals/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "rational-integrals/practice3",
+      "result": "passed"
+    },
+    {
+      "case": "antiderivatives-training",
+      "result": "passed"
+    },
+    {
+      "case": "exam17/primitive",
+      "result": "passed"
+    },
+    {
+      "case": "riemann/e1",
+      "result": "passed"
+    },
+    {
+      "case": "fundamental/substitution",
+      "result": "passed"
+    },
+    {
+      "case": "fundamental/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "improper/e1",
+      "result": "passed"
+    },
+    {
+      "case": "improper/e2",
+      "result": "passed"
+    },
+    {
+      "case": "improper/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "area-volume/e1",
+      "result": "passed"
+    },
+    {
+      "case": "area-volume/e2",
+      "result": "passed"
+    },
+    {
+      "case": "area-volume/shell",
+      "result": "passed"
+    },
+    {
+      "case": "area-volume/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "length-surface/e1",
+      "result": "passed"
+    },
+    {
+      "case": "length-surface/surface",
+      "result": "passed"
+    },
+    {
+      "case": "length-surface/mean",
+      "result": "passed"
+    },
+    {
+      "case": "physical-integrals/spring",
+      "result": "passed"
+    },
+    {
+      "case": "physical-integrals/centroid",
+      "result": "passed"
+    },
+    {
+      "case": "exam13",
+      "result": "passed"
+    },
+    {
+      "case": "exam17/value",
+      "result": "passed"
+    },
+    {
+      "case": "fundamental/variable-limits",
+      "result": "passed"
+    },
+    {
+      "case": "physical-integrals/pressure",
+      "result": "passed"
+    },
+    {
+      "case": "exam6/gravity",
+      "result": "passed"
+    },
+    {
+      "case": "applications-training/centroid-x",
+      "result": "passed"
+    },
+    {
+      "case": "applications-training/centroid-y",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-chain/e1",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-chain/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-extrema/gradient-x",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-extrema/gradient-y",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-extrema/value",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-extrema/completing-square",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-extrema/zero-A-case",
+      "result": "passed"
+    },
+    {
+      "case": "multi-training/constraint",
+      "result": "passed"
+    },
+    {
+      "case": "exam19/dx",
+      "result": "passed"
+    },
+    {
+      "case": "exam19/dy",
+      "result": "passed"
+    },
+    {
+      "case": "exam19/initial",
+      "result": "passed"
+    },
+    {
+      "case": "exam19/value",
+      "result": "passed"
+    },
+    {
+      "case": "exam19/hessian",
+      "result": "passed"
+    },
+    {
+      "case": "double-cartesian/e1",
+      "result": "passed"
+    },
+    {
+      "case": "double-cartesian/e2",
+      "result": "passed"
+    },
+    {
+      "case": "double-cartesian/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "double-order/e1",
+      "result": "passed"
+    },
+    {
+      "case": "double-polar/e1",
+      "result": "passed"
+    },
+    {
+      "case": "double-polar/e2",
+      "result": "passed"
+    },
+    {
+      "case": "exam20/polar",
+      "result": "passed"
+    },
+    {
+      "case": "exam20/cartesian-quadrature",
+      "result": "passed",
+      "value": 0.3657785097441855
+    },
+    {
+      "case": "ode-separable/e1",
+      "result": "passed"
+    },
+    {
+      "case": "ode-separable/e2",
+      "result": "passed"
+    },
+    {
+      "case": "ode-first/e1",
+      "result": "passed"
+    },
+    {
+      "case": "ode-first/e2",
+      "result": "passed"
+    },
+    {
+      "case": "ode-first/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "ode-reduction/e1",
+      "result": "passed"
+    },
+    {
+      "case": "ode-reduction/e2",
+      "result": "passed"
+    },
+    {
+      "case": "ode-linear/e1",
+      "result": "passed"
+    },
+    {
+      "case": "ode-linear/e2",
+      "result": "passed"
+    },
+    {
+      "case": "ode-linear/repeated",
+      "result": "passed"
+    },
+    {
+      "case": "ode-forced/e1",
+      "result": "passed"
+    },
+    {
+      "case": "ode-forced/e2",
+      "result": "passed"
+    },
+    {
+      "case": "ode-forced/practice2",
+      "result": "passed"
+    },
+    {
+      "case": "ode-training",
+      "result": "passed"
+    },
+    {
+      "case": "ode-training/initial-y",
+      "result": "passed"
+    },
+    {
+      "case": "ode-training/initial-dy",
+      "result": "passed"
+    },
+    {
+      "case": "ode-higher-model/e1",
+      "result": "passed"
+    },
+    {
+      "case": "ode-higher-model/cooling",
+      "result": "passed",
+      "value": 35.0
+    },
+    {
+      "case": "matrix-product/AB",
+      "result": "passed"
+    },
+    {
+      "case": "matrix-product/BA",
+      "result": "passed"
+    },
+    {
+      "case": "matrix-product/vector",
+      "result": "passed"
+    },
+    {
+      "case": "elimination/e1",
+      "result": "passed"
+    },
+    {
+      "case": "elimination/e2",
+      "result": "passed"
+    },
+    {
+      "case": "special-blocks/decompose",
+      "result": "passed"
+    },
+    {
+      "case": "determinant/e1",
+      "result": "passed"
+    },
+    {
+      "case": "determinant/e2",
+      "result": "passed"
+    },
+    {
+      "case": "cofactor-inverse/e1",
+      "result": "passed"
+    },
+    {
+      "case": "cofactor-inverse/e2",
+      "result": "passed"
+    },
+    {
+      "case": "cramer/e1",
+      "result": "passed"
+    },
+    {
+      "case": "cramer/e2",
+      "result": "passed"
+    },
+    {
+      "case": "span/e2",
+      "result": "passed"
+    },
+    {
+      "case": "rank-basis/e1",
+      "result": "passed"
+    },
+    {
+      "case": "rank-basis/parameter",
+      "result": "passed"
+    },
+    {
+      "case": "orthogonal/projection",
+      "result": "passed"
+    },
+    {
+      "case": "vectors-training/orthogonal",
+      "result": "passed"
+    },
+    {
+      "case": "vectors-training/unit1",
+      "result": "passed"
+    },
+    {
+      "case": "vectors-training/unit2",
+      "result": "passed"
+    },
+    {
+      "case": "homogeneous-system/basis0",
+      "result": "passed"
+    },
+    {
+      "case": "homogeneous-system/basis1",
+      "result": "passed"
+    },
+    {
+      "case": "nonhomogeneous-system/particular",
+      "result": "passed"
+    },
+    {
+      "case": "parameter-system/general",
+      "result": "passed"
+    },
+    {
+      "case": "exam9/rref",
+      "result": "passed"
+    },
+    {
+      "case": "diagonalization/example",
+      "result": "passed"
+    },
+    {
+      "case": "diagonalization/power1",
+      "result": "passed"
+    },
+    {
+      "case": "diagonalization/power2",
+      "result": "passed"
+    },
+    {
+      "case": "diagonalization/power3",
+      "result": "passed"
+    },
+    {
+      "case": "diagonalization/power4",
+      "result": "passed"
+    },
+    {
+      "case": "symmetric-eigen/orthogonal",
+      "result": "passed"
+    },
+    {
+      "case": "symmetric-eigen/diagonal",
+      "result": "passed"
+    },
+    {
+      "case": "eigen-training/cube",
+      "result": "passed"
+    },
+    {
+      "case": "quadratic-form/e1",
+      "result": "passed"
+    },
+    {
+      "case": "quadratic-training",
+      "result": "passed"
+    },
+    {
+      "case": "positive-definite/e1",
+      "result": "passed"
+    },
+    {
+      "case": "review-parameters/determinant",
+      "result": "passed"
+    },
+    {
+      "case": "exam22/determinant",
+      "result": "passed"
+    },
+    {
+      "case": "exam22/orthogonal",
+      "result": "passed"
+    },
+    {
+      "case": "exam22/diagonal",
+      "result": "passed"
+    },
+    {
+      "case": "exam18/series",
+      "result": "passed"
+    },
+    {
+      "case": "exam18/answer-substitution",
+      "result": "passed"
+    },
+    {
+      "case": "2024-exam14",
+      "result": "passed"
+    },
+    {
+      "case": "2024-exam11/curvature",
+      "result": "passed"
+    },
+    {
+      "case": "2024-exam15",
+      "result": "passed"
+    },
+    {
+      "case": "multivariable-chain/second-example",
+      "result": "passed"
+    },
+    {
+      "case": "higher-differential/differential-product",
+      "result": "passed"
+    }
+  ],
+  "time": "2026-09-17T03:34:11.027453+00:00"
+}

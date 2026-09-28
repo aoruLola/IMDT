@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 165" role="img" aria-labelledby="flow-title flow-desc"><title id="flow-title">函数是一条输入到输出的规则</title><desc id="flow-desc">示例：输入2，按平方规则计算2乘2，输出4。换一个输入，输出随规则改变。</desc><style>text{font-family:"Microsoft YaHei",sans-serif;fill:#242923;font-size:20px}.axis{fill:none;stroke:#8c9389;stroke-width:1.4}.guide{fill:none;stroke:#a8b5aa;stroke-width:1.5;stroke-dasharray:5 5}.curve{fill:none;stroke:#365d49;stroke-width:3}.point{fill:#365d49;stroke:#f8f7f3;stroke-width:2}.hole{fill:#f8f7f3;stroke:#365d49;stroke-width:3}</style>
+    <path class="guide" d="M50 60H510"/>
+    <text x="70" y="40">输入</text><text x="225" y="40">按照规则计算</text><text x="440" y="40">输出</text>
+    <text data-role="flow-input" x="92" y="113" text-anchor="middle" style="font-size:36px">2</text>
+    <rect x="175" y="74" width="210" height="60" rx="2" fill="none" stroke="#365d49"/>
+    <text data-role="flow-rule" x="280" y="113" text-anchor="middle" style="font-size:28px">2 × 2</text>
+    <text data-role="flow-output" x="460" y="113" text-anchor="middle" style="font-size:36px">4</text>
+    <path class="curve" d="M125 104H160M152 98L160 104L152 110M395 104H429M421 98L429 104L421 110"/></svg>

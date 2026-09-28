@@ -1,0 +1,1142 @@
+{
+  "title": "数学二 · 从理解到会做",
+  "target": "2027 全国统考数学二（302）",
+  "syllabus": {
+    "version": "2018（大学公开转载，PDF正文标注）",
+    "url": "https://jtb.ncbcjxau.edu.cn/uploadfile/3/Attachment/0efe984dad.pdf",
+    "official": "https://www.neea.edu.cn/html1/category/1509/6235-1.htm",
+    "checked": "2026-09-16",
+    "status": "2027 官方全文尚未取得，未完成新版逐条对齐；2018 仅作为历史范围核对，不沿用旧试卷结构。"
+  },
+  "chapters": [
+    {
+      "id": "00-prep",
+      "number": 0,
+      "title": "预备篇：把工具准备好",
+      "file": "chapters/00-prep.md",
+      "kind": "预备知识",
+      "lessons": [
+        {
+          "id": "p-algebra",
+          "title": "字母、分式与代数变形",
+          "topics": [
+            "四则运算",
+            "乘方开方",
+            "因式分解",
+            "分式约分"
+          ],
+          "prerequisites": []
+        },
+        {
+          "id": "p-sets",
+          "title": "哪些数满足条件：方程、不等式与区间",
+          "topics": [
+            "一元方程",
+            "不等式",
+            "绝对值",
+            "集合与区间"
+          ],
+          "prerequisites": [
+            "p-algebra"
+          ]
+        },
+        {
+          "id": "p-graph",
+          "title": "用一张图表示输入和输出",
+          "topics": [
+            "平面坐标",
+            "函数图像",
+            "直线与抛物线",
+            "图像平移"
+          ],
+          "prerequisites": [
+            "p-sets"
+          ]
+        },
+        {
+          "id": "p-exp",
+          "title": "幂、指数与对数怎样互相翻译",
+          "topics": [
+            "幂运算",
+            "指数函数",
+            "对数运算与定义域"
+          ],
+          "prerequisites": [
+            "p-graph"
+          ]
+        },
+        {
+          "id": "p-trig",
+          "title": "从单位圆认识三角函数",
+          "topics": [
+            "弧度",
+            "三角函数",
+            "恒等变形",
+            "反三角函数"
+          ],
+          "prerequisites": [
+            "p-exp"
+          ]
+        },
+        {
+          "id": "p-logic",
+          "title": "“如果”“只有”“对所有”到底在说什么",
+          "topics": [
+            "充分必要条件",
+            "量词",
+            "反例",
+            "求和与阶乘"
+          ],
+          "prerequisites": [
+            "p-trig"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01-limits",
+      "number": 1,
+      "title": "函数、极限与连续",
+      "file": "chapters/01-limits.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "function",
+          "title": "函数：先确定输入，再谈输出",
+          "topics": [
+            "函数定义",
+            "定义域",
+            "值域",
+            "分段函数"
+          ],
+          "prerequisites": [
+            "p-logic"
+          ]
+        },
+        {
+          "id": "properties",
+          "title": "单调、奇偶、周期与有界",
+          "topics": [
+            "单调性",
+            "奇偶性",
+            "周期性",
+            "有界性"
+          ],
+          "prerequisites": [
+            "function"
+          ]
+        },
+        {
+          "id": "composition",
+          "title": "复合函数、反函数与基本函数",
+          "topics": [
+            "复合函数",
+            "反函数",
+            "基本初等函数",
+            "初等函数"
+          ],
+          "prerequisites": [
+            "properties"
+          ]
+        },
+        {
+          "id": "limit",
+          "title": "极限：接近，不是代入",
+          "topics": [
+            "函数极限",
+            "左右极限",
+            "无穷远极限",
+            "极限定义"
+          ],
+          "prerequisites": [
+            "composition"
+          ]
+        },
+        {
+          "id": "sequence",
+          "title": "数列、夹逼与单调有界",
+          "topics": [
+            "数列极限",
+            "夹逼准则",
+            "单调有界准则",
+            "子列"
+          ],
+          "prerequisites": [
+            "limit"
+          ]
+        },
+        {
+          "id": "limit-rules",
+          "title": "极限的性质与代数计算",
+          "topics": [
+            "唯一性",
+            "局部有界性",
+            "保号性",
+            "四则运算法则",
+            "因式分解",
+            "有理化"
+          ],
+          "prerequisites": [
+            "sequence"
+          ]
+        },
+        {
+          "id": "important-limits",
+          "title": "两个重要极限与无穷小比较",
+          "topics": [
+            "重要极限",
+            "无穷小",
+            "等价无穷小",
+            "阶的比较",
+            "无穷大与无穷小关系"
+          ],
+          "prerequisites": [
+            "limit-rules"
+          ]
+        },
+        {
+          "id": "continuity",
+          "title": "连续、间断与闭区间性质",
+          "topics": [
+            "连续性",
+            "间断点分类",
+            "复合连续性",
+            "最值定理",
+            "介值定理",
+            "零点定理"
+          ],
+          "prerequisites": [
+            "important-limits"
+          ]
+        },
+        {
+          "id": "elementary-atlas",
+          "title": "基本函数图谱与实际建模",
+          "topics": [
+            "幂函数图像",
+            "指数对数图像",
+            "三角反三角图像",
+            "函数关系建立"
+          ],
+          "prerequisites": [
+            "continuity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-derivatives",
+      "number": 2,
+      "title": "导数与微分",
+      "file": "chapters/02-derivatives.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "derivative",
+          "title": "从平均变化率到导数",
+          "topics": [
+            "导数定义",
+            "左右导数",
+            "几何物理意义",
+            "可导与连续"
+          ],
+          "prerequisites": [
+            "continuity"
+          ]
+        },
+        {
+          "id": "derivative-rules",
+          "title": "基本求导与复合、反函数",
+          "topics": [
+            "基本导数公式",
+            "四则求导",
+            "链式法则",
+            "反函数求导"
+          ],
+          "prerequisites": [
+            "derivative"
+          ]
+        },
+        {
+          "id": "implicit-parametric",
+          "title": "隐函数、参数方程与对数求导",
+          "topics": [
+            "隐函数求导",
+            "参数方程求导",
+            "对数求导"
+          ],
+          "prerequisites": [
+            "derivative-rules"
+          ]
+        },
+        {
+          "id": "higher-differential",
+          "title": "高阶导数、微分与近似",
+          "topics": [
+            "高阶导数",
+            "莱布尼茨公式",
+            "微分",
+            "微分形式不变性",
+            "近似计算"
+          ],
+          "prerequisites": [
+            "implicit-parametric"
+          ]
+        },
+        {
+          "id": "piecewise-derivative",
+          "title": "分段求导与切线、法线",
+          "topics": [
+            "分段函数求导",
+            "连续衔接",
+            "导数定义变式",
+            "法线方程"
+          ],
+          "prerequisites": [
+            "higher-differential"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-mean-value",
+      "number": 3,
+      "title": "中值定理与极限进阶",
+      "file": "chapters/03-mean-value.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "rolle-lagrange",
+          "title": "从一段变化找到某点变化：罗尔与拉格朗日",
+          "topics": [
+            "罗尔定理",
+            "拉格朗日中值定理",
+            "常数判定"
+          ],
+          "prerequisites": [
+            "higher-differential"
+          ]
+        },
+        {
+          "id": "cauchy-proof",
+          "title": "柯西中值定理与构造辅助函数",
+          "topics": [
+            "柯西中值定理",
+            "中值定理证明题",
+            "辅助函数"
+          ],
+          "prerequisites": [
+            "rolle-lagrange"
+          ]
+        },
+        {
+          "id": "taylor",
+          "title": "泰勒公式：为什么可以用多项式近似",
+          "topics": [
+            "泰勒公式",
+            "佩亚诺余项",
+            "拉格朗日余项",
+            "麦克劳林公式"
+          ],
+          "prerequisites": [
+            "cauchy-proof"
+          ]
+        },
+        {
+          "id": "lhopital",
+          "title": "洛必达法则与极限方法选择",
+          "topics": [
+            "洛必达法则",
+            "未定式转化",
+            "极限综合"
+          ],
+          "prerequisites": [
+            "taylor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-applications",
+      "number": 4,
+      "title": "导数的应用",
+      "file": "chapters/04-applications.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "monotone-extrema",
+          "title": "单调、极值与最值",
+          "topics": [
+            "导数判单调",
+            "极值必要充分条件",
+            "闭区间最值"
+          ],
+          "prerequisites": [
+            "lhopital"
+          ]
+        },
+        {
+          "id": "shape",
+          "title": "凹凸、拐点、渐近线与作图",
+          "topics": [
+            "二阶导判凹凸",
+            "拐点",
+            "渐近线",
+            "函数图像"
+          ],
+          "prerequisites": [
+            "monotone-extrema"
+          ]
+        },
+        {
+          "id": "curvature",
+          "title": "曲率：弯得有多急",
+          "topics": [
+            "弧微分",
+            "曲率",
+            "曲率半径"
+          ],
+          "prerequisites": [
+            "shape"
+          ]
+        },
+        {
+          "id": "optimization",
+          "title": "根、不等式与实际最优化",
+          "topics": [
+            "根的个数",
+            "不等式证明",
+            "最优化建模"
+          ],
+          "prerequisites": [
+            "curvature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-antiderivatives",
+      "number": 5,
+      "title": "不定积分",
+      "file": "chapters/05-antiderivatives.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "primitive",
+          "title": "原函数与基本积分",
+          "topics": [
+            "原函数",
+            "不定积分",
+            "基本积分公式",
+            "线性性质"
+          ],
+          "prerequisites": [
+            "derivative-rules"
+          ]
+        },
+        {
+          "id": "substitution",
+          "title": "换元积分：把复合结构拆开",
+          "topics": [
+            "第一换元法",
+            "第二换元法",
+            "三角换元"
+          ],
+          "prerequisites": [
+            "primitive"
+          ]
+        },
+        {
+          "id": "parts",
+          "title": "分部积分与递推",
+          "topics": [
+            "分部积分法",
+            "循环积分",
+            "递推积分"
+          ],
+          "prerequisites": [
+            "substitution"
+          ]
+        },
+        {
+          "id": "rational-integrals",
+          "title": "有理式、三角式与根式的处理",
+          "topics": [
+            "有理函数积分",
+            "部分分式",
+            "三角有理式",
+            "简单根式积分"
+          ],
+          "prerequisites": [
+            "parts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06-definite",
+      "number": 6,
+      "title": "定积分与反常积分",
+      "file": "chapters/06-definite.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "riemann",
+          "title": "定积分：把很多小份加起来",
+          "topics": [
+            "定积分定义",
+            "可积性",
+            "定积分性质",
+            "积分中值定理"
+          ],
+          "prerequisites": [
+            "rational-integrals"
+          ]
+        },
+        {
+          "id": "fundamental",
+          "title": "变限积分与牛顿—莱布尼茨公式",
+          "topics": [
+            "变上限积分",
+            "微积分基本定理",
+            "定积分计算",
+            "换元与分部"
+          ],
+          "prerequisites": [
+            "riemann"
+          ]
+        },
+        {
+          "id": "improper",
+          "title": "反常积分与敛散性",
+          "topics": [
+            "无穷区间积分",
+            "无界函数积分",
+            "比较判别",
+            "p积分"
+          ],
+          "prerequisites": [
+            "fundamental"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-integral-applications",
+      "number": 7,
+      "title": "积分的应用",
+      "file": "chapters/07-integral-applications.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "area-volume",
+          "title": "面积与体积：先画一片",
+          "topics": [
+            "平面面积",
+            "极坐标面积",
+            "截面体积",
+            "旋转体体积"
+          ],
+          "prerequisites": [
+            "improper"
+          ]
+        },
+        {
+          "id": "length-surface",
+          "title": "弧长、旋转侧面积与平均值",
+          "topics": [
+            "平面曲线弧长",
+            "旋转侧面积",
+            "积分平均值"
+          ],
+          "prerequisites": [
+            "area-volume"
+          ]
+        },
+        {
+          "id": "physical-integrals",
+          "title": "功、压力、引力与质心",
+          "topics": [
+            "变力做功",
+            "液体压力",
+            "引力",
+            "质心",
+            "物理建模"
+          ],
+          "prerequisites": [
+            "length-surface"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08-multivariable",
+      "number": 8,
+      "title": "多元函数微分",
+      "file": "chapters/08-multivariable.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "multivariable-limit",
+          "title": "两个输入：区域、极限与连续",
+          "topics": [
+            "二元函数定义域",
+            "二元极限",
+            "二元连续"
+          ],
+          "prerequisites": [
+            "fundamental"
+          ]
+        },
+        {
+          "id": "partial-total",
+          "title": "偏导数与全微分",
+          "topics": [
+            "一阶偏导",
+            "二阶偏导",
+            "混合偏导",
+            "全微分",
+            "可微条件"
+          ],
+          "prerequisites": [
+            "multivariable-limit"
+          ]
+        },
+        {
+          "id": "multivariable-chain",
+          "title": "多元复合与隐函数求导",
+          "topics": [
+            "多元链式法则",
+            "二阶链式",
+            "隐函数一阶二阶求导"
+          ],
+          "prerequisites": [
+            "partial-total"
+          ]
+        },
+        {
+          "id": "multivariable-extrema",
+          "title": "二元极值、条件极值与最值",
+          "topics": [
+            "驻点",
+            "二阶判别",
+            "拉格朗日乘子",
+            "闭区域最值"
+          ],
+          "prerequisites": [
+            "multivariable-chain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09-double-integrals",
+      "number": 9,
+      "title": "二重积分",
+      "file": "chapters/09-double-integrals.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "double-cartesian",
+          "title": "二重积分与直角坐标计算",
+          "topics": [
+            "二重积分定义性质",
+            "累次积分",
+            "区域描述",
+            "质量计算"
+          ],
+          "prerequisites": [
+            "multivariable-extrema"
+          ]
+        },
+        {
+          "id": "double-order",
+          "title": "换序与对称性",
+          "topics": [
+            "交换积分次序",
+            "区域分割",
+            "奇偶对称",
+            "交换对称"
+          ],
+          "prerequisites": [
+            "double-cartesian"
+          ]
+        },
+        {
+          "id": "double-polar",
+          "title": "极坐标与综合区域",
+          "topics": [
+            "极坐标变换",
+            "面积因子",
+            "圆形区域",
+            "二重积分综合"
+          ],
+          "prerequisites": [
+            "double-order"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10-ode",
+      "number": 10,
+      "title": "常微分方程",
+      "file": "chapters/10-ode.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "ode-separable",
+          "title": "微分方程与可分离变量",
+          "topics": [
+            "阶与解",
+            "通解特解",
+            "初值问题",
+            "可分离变量"
+          ],
+          "prerequisites": [
+            "improper"
+          ]
+        },
+        {
+          "id": "ode-first",
+          "title": "一阶齐次型与线性方程",
+          "topics": [
+            "齐次型方程",
+            "一阶线性方程",
+            "伯努利方程辅助识别"
+          ],
+          "prerequisites": [
+            "ode-separable"
+          ]
+        },
+        {
+          "id": "ode-reduction",
+          "title": "可降阶方程",
+          "topics": [
+            "y的高阶导等于已知函数",
+            "不显含y",
+            "不显含x"
+          ],
+          "prerequisites": [
+            "ode-first"
+          ]
+        },
+        {
+          "id": "ode-linear",
+          "title": "线性解结构与常系数齐次方程",
+          "topics": [
+            "线性叠加",
+            "通解结构",
+            "常系数齐次方程",
+            "特征方程"
+          ],
+          "prerequisites": [
+            "ode-reduction"
+          ]
+        },
+        {
+          "id": "ode-forced",
+          "title": "非齐次方程、共振与应用",
+          "topics": [
+            "指数多项式特解",
+            "三角特解",
+            "待定系数",
+            "初值应用"
+          ],
+          "prerequisites": [
+            "ode-linear"
+          ]
+        },
+        {
+          "id": "ode-higher-model",
+          "title": "高阶常系数与变化模型",
+          "topics": [
+            "高于二阶的常系数齐次方程",
+            "重复特征根",
+            "衰减模型",
+            "冷却模型"
+          ],
+          "prerequisites": [
+            "ode-forced"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11-matrices",
+      "number": 11,
+      "title": "矩阵与初等变换",
+      "file": "chapters/11-matrices.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "matrix-entry",
+          "title": "方程组与矩阵：把系数排成表",
+          "topics": [
+            "矩阵定义",
+            "特殊矩阵",
+            "矩阵相等",
+            "加法与数乘"
+          ],
+          "prerequisites": [
+            "p-algebra"
+          ]
+        },
+        {
+          "id": "matrix-product",
+          "title": "矩阵乘法、转置与分块",
+          "topics": [
+            "矩阵乘法",
+            "矩阵幂",
+            "转置法则",
+            "分块矩阵"
+          ],
+          "prerequisites": [
+            "matrix-entry"
+          ]
+        },
+        {
+          "id": "elimination",
+          "title": "初等行变换与阶梯形",
+          "topics": [
+            "初等变换",
+            "初等矩阵",
+            "行阶梯形",
+            "行最简形",
+            "矩阵秩"
+          ],
+          "prerequisites": [
+            "matrix-product"
+          ]
+        },
+        {
+          "id": "special-blocks",
+          "title": "特殊矩阵、等价与分块计算",
+          "topics": [
+            "数量矩阵",
+            "三角矩阵",
+            "反对称矩阵",
+            "分块运算",
+            "矩阵等价"
+          ],
+          "prerequisites": [
+            "elimination"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12-determinants",
+      "number": 12,
+      "title": "行列式与逆矩阵",
+      "file": "chapters/12-determinants.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "determinant",
+          "title": "行列式：方阵对应的一个数",
+          "topics": [
+            "行列式定义",
+            "排列逆序",
+            "二三阶计算",
+            "行列式性质"
+          ],
+          "prerequisites": [
+            "elimination"
+          ]
+        },
+        {
+          "id": "cofactor-inverse",
+          "title": "按行展开、伴随与求逆",
+          "topics": [
+            "余子式",
+            "代数余子式",
+            "展开定理",
+            "伴随矩阵",
+            "逆矩阵"
+          ],
+          "prerequisites": [
+            "determinant"
+          ]
+        },
+        {
+          "id": "cramer",
+          "title": "克拉默法则与矩阵方程",
+          "topics": [
+            "克拉默法则",
+            "矩阵方程",
+            "逆矩阵应用"
+          ],
+          "prerequisites": [
+            "cofactor-inverse"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13-vectors",
+      "number": 13,
+      "title": "向量组、线性相关与秩",
+      "file": "chapters/13-vectors.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "span",
+          "title": "线性组合与相关无关",
+          "topics": [
+            "n维向量",
+            "线性组合",
+            "线性表示",
+            "线性相关",
+            "线性无关"
+          ],
+          "prerequisites": [
+            "cofactor-inverse"
+          ]
+        },
+        {
+          "id": "rank-basis",
+          "title": "极大无关组、秩与子式",
+          "topics": [
+            "极大线性无关组",
+            "向量组秩",
+            "等价向量组",
+            "矩阵秩",
+            "秩的性质"
+          ],
+          "prerequisites": [
+            "span"
+          ]
+        },
+        {
+          "id": "orthogonal",
+          "title": "内积、正交与正交化",
+          "topics": [
+            "向量内积",
+            "长度",
+            "正交",
+            "施密特正交化",
+            "正交矩阵"
+          ],
+          "prerequisites": [
+            "rank-basis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14-systems",
+      "number": 14,
+      "title": "线性方程组的解结构",
+      "file": "chapters/14-systems.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "homogeneous-system",
+          "title": "齐次方程与基础解系",
+          "topics": [
+            "齐次方程非零解条件",
+            "自由变量",
+            "基础解系",
+            "解空间维数"
+          ],
+          "prerequisites": [
+            "rank-basis"
+          ]
+        },
+        {
+          "id": "nonhomogeneous-system",
+          "title": "非齐次方程与公共解",
+          "topics": [
+            "有解判别",
+            "唯一与无穷多解",
+            "特解加齐次解",
+            "公共解"
+          ],
+          "prerequisites": [
+            "homogeneous-system"
+          ]
+        },
+        {
+          "id": "parameter-system",
+          "title": "含参数方程组与秩讨论",
+          "topics": [
+            "参数讨论",
+            "临界值",
+            "秩与解结构综合"
+          ],
+          "prerequisites": [
+            "nonhomogeneous-system"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15-eigen",
+      "number": 15,
+      "title": "特征值、相似与对角化",
+      "file": "chapters/15-eigen.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "eigen",
+          "title": "不改变方向的向量",
+          "topics": [
+            "特征值",
+            "特征向量",
+            "特征多项式",
+            "特征值性质"
+          ],
+          "prerequisites": [
+            "nonhomogeneous-system"
+          ]
+        },
+        {
+          "id": "diagonalization",
+          "title": "相似与可对角化",
+          "topics": [
+            "相似矩阵",
+            "对角化条件",
+            "重根",
+            "矩阵幂"
+          ],
+          "prerequisites": [
+            "eigen"
+          ]
+        },
+        {
+          "id": "symmetric-eigen",
+          "title": "实对称矩阵与正交对角化",
+          "topics": [
+            "实对称矩阵谱性质",
+            "正交相似",
+            "重根正交化"
+          ],
+          "prerequisites": [
+            "diagonalization"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16-quadratic",
+      "number": 16,
+      "title": "二次型、合同与正定性",
+      "file": "chapters/16-quadratic.md",
+      "kind": "正式课程",
+      "lessons": [
+        {
+          "id": "quadratic-form",
+          "title": "二次型与标准形",
+          "topics": [
+            "二次型矩阵",
+            "配方法",
+            "正交变换",
+            "标准形",
+            "规范形",
+            "惯性定律",
+            "合同"
+          ],
+          "prerequisites": [
+            "symmetric-eigen"
+          ]
+        },
+        {
+          "id": "positive-definite",
+          "title": "正定、负定与参数判定",
+          "topics": [
+            "正定二次型",
+            "特征值判别",
+            "顺序主子式",
+            "负定与不定"
+          ],
+          "prerequisites": [
+            "quadratic-form"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17-review",
+      "number": 17,
+      "title": "综合复习：选择方法与检查答案",
+      "file": "chapters/17-review.md",
+      "kind": "综合复习",
+      "lessons": [
+        {
+          "id": "review-methods",
+          "title": "一道题为什么选这种方法",
+          "topics": [
+            "极限与积分综合",
+            "跨章方法选择",
+            "计算检查"
+          ],
+          "prerequisites": [
+            "positive-definite"
+          ]
+        },
+        {
+          "id": "review-proof",
+          "title": "证明题：把条件接到结论",
+          "topics": [
+            "存在性证明",
+            "唯一性",
+            "必要充分",
+            "反例",
+            "边界检查"
+          ],
+          "prerequisites": [
+            "review-methods"
+          ]
+        },
+        {
+          "id": "review-parameters",
+          "title": "参数、综合训练与复盘",
+          "topics": [
+            "参数临界值",
+            "多工具综合",
+            "错因分析",
+            "复习路线"
+          ],
+          "prerequisites": [
+            "review-proof"
+          ]
+        }
+      ]
+    }
+  ],
+  "legacy": {
+    "top": "function",
+    "start": "p-logic",
+    "function": "function",
+    "range": "function",
+    "domain": "function",
+    "limit": "limit",
+    "limit-visual": "limit",
+    "limit-explained": "limit",
+    "limit-sides": "limit",
+    "continuity": "continuity",
+    "continuity-value": "continuity",
+    "method": "limit-rules",
+    "factor": "limit-rules",
+    "rationalize": "limit-rules",
+    "practice": "limit-rules",
+    "practice-factor": "limit-rules",
+    "practice-root": "limit-rules",
+    "practice-continuity": "continuity",
+    "summary": "continuity",
+    "advanced": "properties",
+    "extra-function": "properties",
+    "extra-domain": "function",
+    "extra-sequence": "sequence",
+    "extra-definition": "limit",
+    "extra-properties": "limit-rules",
+    "extra-continuity": "continuity",
+    "extra-equivalence": "important-limits",
+    "extra-taylor": "taylor",
+    "extra-squeeze": "sequence",
+    "extra-integral": "review-methods",
+    "extra-methods": "review-methods",
+    "extra-practice": "review-methods"
+  }
+}

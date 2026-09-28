@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "katex": "0.18.7",
+    "linkedom": "0.18.12"
+  }
+}

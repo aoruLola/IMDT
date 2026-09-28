@@ -1,0 +1,5696 @@
+[
+  {
+    "id": "politics-001",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "哲学基本问题：物质和意识、思维和存在的关系；唯物主义与唯心主义；可知论与不可知论",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-002",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "物质观：物质的客观实在性；运动与静止；时间与空间；物质运动的规律性",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-003",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "意识观：意识的起源、本质、能动作用；主观能动性与客观规律性的关系",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-004",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "世界的物质统一性；自然界与人类社会的物质性；人与自然的关系",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-005",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "实践观：实践的本质、基本特征、基本形式；实践与认识的关系",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-006",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "认识论：认识的本质、来源、发展动力、目的；感性认识与理性认识；认识运动的规律",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-007",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "真理：真理的客观性、绝对性、相对性；真理与谬误；实践是检验真理的标准",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-008",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "认识规律：从实践到认识、从认识到实践；认识运动的反复性和无限性",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-009",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "唯物辩证法总特征：联系、发展；联系的客观性、普遍性、多样性和条件性；发展的实质",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-010",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "三大规律：对立统一规律、量变质变规律、否定之否定规律",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-011",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "基本范畴：现象与本质、内容与形式、原因与结果、必然与偶然、现实与可能",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-012",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "矛盾：同一性与斗争性、普遍性与特殊性、主要矛盾与次要矛盾、矛盾主要方面与次要方面、具体问题具体分析",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-013",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "唯物史观：社会存在与社会意识；社会意识相对独立性；生产力与生产关系；经济基础与上层建筑",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-014",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "社会形态；社会基本矛盾；阶级、国家、革命；人民群众和个人在历史中的作用",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 马克思主义哲学"
+  },
+  {
+    "id": "politics-015",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "商品：商品二因素、劳动二重性、价值量、社会必要劳动时间、价值规律",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-016",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "货币：货币的职能；价值尺度、流通手段、支付手段；货币流通规律",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-017",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "资本：资本总公式及矛盾；劳动力商品；不变资本与可变资本；剩余价值",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-018",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "剩余价值生产：绝对剩余价值、相对剩余价值、超额剩余价值；资本主义工资",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-019",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "资本积累：资本主义再生产；资本有机构成；相对过剩人口；资本积累的一般规律",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-020",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "资本循环与周转：货币资本、生产资本、商品资本；周转时间、周转速度、固定资本与流动资本",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-021",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "社会总资本再生产和流通；社会总产品；两大部类；简单再生产与扩大再生产",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-022",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "平均利润与生产价格；商业资本、借贷资本、银行资本；利息和地租",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-023",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "垄断资本主义：垄断形成、垄断利润；国家垄断资本主义；经济全球化",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-024",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "资本主义制度的历史地位、内在矛盾和被社会主义替代的历史必然性",
+    "keywords": [
+      "马原哲学基本原理",
+      "物质意识实践认识",
+      "唯物辩证法三大规律",
+      "社会基本矛盾。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 马克思主义政治经济学"
+  },
+  {
+    "id": "politics-025",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "社会主义从空想到科学的发展；科学社会主义的理论基础和基本原则",
+    "keywords": [
+      "政治经济学商品货币",
+      "剩余价值",
+      "资本积累",
+      "资本循环周转",
+      "垄断资本主义。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 科学社会主义"
+  },
+  {
+    "id": "politics-026",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "社会主义代替资本主义的历史必然性；无产阶级解放和人的自由全面发展",
+    "keywords": [
+      "政治经济学商品货币",
+      "剩余价值",
+      "资本积累",
+      "资本循环周转",
+      "垄断资本主义。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 科学社会主义"
+  },
+  {
+    "id": "politics-027",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "社会主义革命、建设和发展的一般规律；社会主义发展道路的多样性",
+    "keywords": [
+      "政治经济学商品货币",
+      "剩余价值",
+      "资本积累",
+      "资本循环周转",
+      "垄断资本主义。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 科学社会主义"
+  },
+  {
+    "id": "politics-028",
+    "subject": "politics",
+    "chapterId": "2.1",
+    "title": "共产主义社会的基本特征；实现共产主义的长期性、艰巨性和阶段性",
+    "keywords": [
+      "政治经济学商品货币",
+      "剩余价值",
+      "资本积累",
+      "资本循环周转",
+      "垄断资本主义。",
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 科学社会主义"
+  },
+  {
+    "id": "politics-029",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "毛泽东思想的形成发展、主要内容、活的灵魂、历史地位和指导意义",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-030",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "新民主主义革命理论：近代中国国情；革命对象、动力、领导、性质和前途；新民主主义政治、经济、文化纲领",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-031",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "新民主主义革命道路；统一战线、武装斗争、党的建设三大法宝；农村包围城市、武装夺取政权",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-032",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "社会主义改造理论：过渡时期总路线；农业、手工业和资本主义工商业改造；社会主义基本制度确立",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-033",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "社会主义建设道路初步探索：正确处理人民内部矛盾；调动一切积极因素；探索中的经验和教训",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-034",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "邓小平理论：社会主义本质、初级阶段、改革开放、社会主义市场经济、“一国两制”",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-035",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "“三个代表”重要思想：始终代表先进生产力、先进文化、最广大人民根本利益",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-036",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "科学发展观：第一要义、核心、基本要求、根本方法；以人为本和全面协调可持续发展",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-037",
+    "subject": "politics",
+    "chapterId": "2.2",
+    "title": "中国特色社会主义理论体系的历史逻辑、理论逻辑和实践逻辑",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-038",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "新时代的历史方位、社会主要矛盾变化、党的中心任务和强国建设目标",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-039",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "“两个确立”、增强“四个意识”、坚定“四个自信”、做到“两个维护”",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-040",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "中国式现代化：人口规模巨大、全体人民共同富裕、物质文明和精神文明相协调、人与自然和谐共生、走和平发展道路",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-041",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "以中国式现代化全面推进中华民族伟大复兴；高质量发展、新发展理念、新发展格局",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-042",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "全面深化改革；社会主义市场经济；科技自立自强；教育、科技、人才一体推进",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-043",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "全过程人民民主；全面依法治国；文化自信和社会主义文化强国",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-044",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "保障和改善民生；共同富裕；生态文明建设；美丽中国",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-045",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "总体国家安全观；国防和军队现代化；“一国两制”和祖国统一",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-046",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "构建人类命运共同体；和平发展；全球发展倡议、全球安全倡议、全球文明倡议等相关表述",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-047",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "全面从严治党；党的自我革命；党的领导、党的建设和中国式现代化的关系",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-048",
+    "subject": "politics",
+    "chapterId": "2.3",
+    "title": "党的二十大、二十届历次全会及截至考试前的重要会议精神，以当年资料为准",
+    "keywords": [],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-049",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "鸦片战争前的中国与世界；资本—帝国主义侵略；近代中国半殖民地半封建社会",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-050",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "反抗外国侵略：三元里抗英、太平天国、义和团、洋务运动等历史评价",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-051",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "近代中国各阶级探索：农民阶级、地主阶级洋务派、资产阶级维新派、革命派的主张、实践和失败原因",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-052",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "辛亥革命：同盟会、三民主义、武昌起义、中华民国、辛亥革命的历史意义和局限",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-053",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "新文化运动、五四运动；马克思主义在中国传播；中国共产党的成立",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-054",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "国民革命：第一次国共合作、北伐战争、统一战线破裂及大革命失败原因",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-055",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "土地革命：南昌起义、秋收起义、井冈山道路、长征、遵义会议及其意义",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-056",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "抗日战争：局部抗战、全面抗战、抗日民族统一战线、持久战、敌后战场、抗战胜利意义",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-057",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "解放战争：重庆谈判、解放区土地改革、战略决战、渡江战役、新民主主义革命胜利",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-058",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "中华人民共和国成立和社会主义基本制度确立；过渡时期总路线和社会主义改造",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-059",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "社会主义建设的探索；改革开放和社会主义现代化建设新时期",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-060",
+    "subject": "politics",
+    "chapterId": "2.4",
+    "title": "中国特色社会主义进入新时代；新时代历史性成就和历史性变革",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-061",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "人生观：人生目的、人生态度、人生价值；个人与社会；正确处理顺境与逆境",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-062",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "理想信念：马克思主义信仰、中国特色社会主义共同理想、共产主义远大理想；理想与现实",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-063",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "中国精神：以爱国主义为核心的民族精神、以改革创新为核心的时代精神；爱国主义与个人成长",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-064",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "社会主义核心价值观：国家、社会、个人层面的价值要求",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-065",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "道德：道德本质、功能、历史发展；公共生活、职业生活、婚恋家庭生活中的道德规范",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-066",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "诚信、友善、敬业、责任；社会主义道德建设；志愿服务和网络生活道德",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-067",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "法治思想：法律的本质和特征；社会主义法律的本质、运行和体系",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-068",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "宪法：国家基本制度、公民基本权利和义务、国家机构、宪法实施和监督",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-069",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "法治道路、法治体系、法治国家、法治政府、法治社会；权利与义务关系",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-070",
+    "subject": "politics",
+    "chapterId": "2.5",
+    "title": "民法、刑法、行政法、程序法的基础概念，以及常见法律责任和维权边界",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-071",
+    "subject": "politics",
+    "chapterId": "2.6",
+    "title": "中国共产党和中国政府现阶段重大方针政策",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-072",
+    "subject": "politics",
+    "chapterId": "2.6",
+    "title": "国内重大会议、重要政策、科技创新、经济发展、生态文明、民生和国家安全议题",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-073",
+    "subject": "politics",
+    "chapterId": "2.6",
+    "title": "国际格局、经济全球化、和平与发展主题、多极化趋势",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-074",
+    "subject": "politics",
+    "chapterId": "2.6",
+    "title": "大国关系、地区热点、全球治理、国际安全、气候与能源、科技竞争",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-075",
+    "subject": "politics",
+    "chapterId": "2.6",
+    "title": "中国外交理念、构建人类命运共同体、全球发展/安全/文明合作",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "politics-076",
+    "subject": "politics",
+    "chapterId": "2.6",
+    "title": "当年 1 月至考试前的时政；以目标年份冲刺资料为准，不使用 2026 年押题材料替代 2027 年资料",
+    "keywords": [
+      "政治",
+      "马原",
+      "毛中特",
+      "史纲",
+      "思修",
+      "时政"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-001",
+    "subject": "english",
+    "chapterId": "3.1",
+    "title": "5500 左右考研核心词：词义、词性、熟词僻义、近义词/反义词、形近词",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-002",
+    "subject": "english",
+    "chapterId": "3.1",
+    "title": "派生：前缀、后缀、词根；名词、动词、形容词、副词之间的转换",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-003",
+    "subject": "english",
+    "chapterId": "3.1",
+    "title": "固定搭配：动词搭配、介词搭配、形容词搭配、名词搭配、常见短语动词",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-004",
+    "subject": "english",
+    "chapterId": "3.1",
+    "title": "一词多义和语境义；学术、社会、科技、经济、教育、环境、文化类高频词",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-005",
+    "subject": "english",
+    "chapterId": "3.1",
+    "title": "熟悉常见拉丁/希腊词根和高频学术词族，能够在阅读中根据上下文猜词",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-006",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "句子成分：主语、谓语、宾语、表语、定语、状语、补语、同位语",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-007",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "基本句型：五大基本句型；并列句；复合句；主干识别",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-008",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "名词、代词、冠词、数词、介词、连词、形容词、副词的基本用法",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-009",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "时态：一般现在/过去/将来、进行时、完成时、完成进行时；时态呼应",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-010",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "语态：主动与被动；被动结构的识别和翻译；特殊被动句",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-011",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "非谓语：不定式、动名词、现在分词、过去分词；逻辑主语、时态和语态",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-012",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "三大从句：名词性从句、定语从句、状语从句；连接词和省略",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-013",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "虚拟语气：条件句、愿望、建议、命令、必要性、事实相反表达",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-014",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "主谓一致；倒装；强调；省略；替代；插入语；同位语；分裂结构",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-015",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "比较结构、否定结构、因果/转折/让步/条件/目的逻辑",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-016",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "长难句：多层从句、插入成分、并列平行、抽象名词化、后置定语、指代关系",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-017",
+    "subject": "english",
+    "chapterId": "3.2",
+    "title": "标点辅助断句：逗号、分号、冒号、破折号、括号在阅读中的逻辑作用",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-018",
+    "subject": "english",
+    "chapterId": "3.3",
+    "title": "语篇主旨和段落逻辑；首句、转折句、结尾句定位",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-019",
+    "subject": "english",
+    "chapterId": "3.3",
+    "title": "词义辨析：同义、近义、形近、语域和感情色彩",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-020",
+    "subject": "english",
+    "chapterId": "3.3",
+    "title": "固定搭配和习惯表达；动词、介词、名词、形容词搭配",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-021",
+    "subject": "english",
+    "chapterId": "3.3",
+    "title": "语法线索：时态、语态、非谓语、主谓一致、从句连接词",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-022",
+    "subject": "english",
+    "chapterId": "3.3",
+    "title": "逻辑线索：转折、因果、递进、并列、让步、条件、解释、举例",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-023",
+    "subject": "english",
+    "chapterId": "3.3",
+    "title": "复盘每个错误属于词汇、搭配、语法、逻辑、语篇或选项干扰",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-024",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "文章结构：总分、因果、对比、问题—解决、现象—解释、观点—论据",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-025",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "段落功能：主题句、例证、转折、让步、结论、定义、数据、引用",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-026",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "主旨题：全文主旨、标题、作者中心观点；避免以局部细节代替主旨",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-027",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "细节题：定位、同义替换、事实核对、范围和程度判断",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-028",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "推理题：隐含结论、因果链、作者未明说但可推出的信息",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-029",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "观点态度题：作者态度、语气、评价词；区分作者观点和他人观点",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-030",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "例证题：例子证明的观点、所在段落作用、与主旨的关系",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-031",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "词义题：上下文定义、同位解释、因果、对比、替换验证",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-032",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "指代题：代词、指示词、同义复现、语法一致和语义一致",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-033",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "复杂选项：绝对化、偷换概念、扩大/缩小范围、因果倒置、无中生有",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-034",
+    "subject": "english",
+    "chapterId": "3.4",
+    "title": "社会科学、自然科学、商业管理、教育文化、科技伦理类文章的常用论证套路",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-035",
+    "subject": "english",
+    "chapterId": "3.5",
+    "title": "七选五：段落主旨、代词指代、逻辑连接、复现词、句式衔接、首尾呼应",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-036",
+    "subject": "english",
+    "chapterId": "3.5",
+    "title": "排序题：时间顺序、因果链、代词回指、主题句和段落承接",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-037",
+    "subject": "english",
+    "chapterId": "3.5",
+    "title": "小标题：段落核心信息、并列结构、概括性表达",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-038",
+    "subject": "english",
+    "chapterId": "3.5",
+    "title": "选项多余信息的排除；先确定锚点，再处理剩余位置",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-039",
+    "subject": "english",
+    "chapterId": "3.6",
+    "title": "先找主干：主语、谓语、宾语；再拆从句和非谓语",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-040",
+    "subject": "english",
+    "chapterId": "3.6",
+    "title": "定语从句、同位语从句、名词性从句、状语从句的准确转换",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-041",
+    "subject": "english",
+    "chapterId": "3.6",
+    "title": "被动、倒装、强调、插入语、否定、比较、抽象名词化的翻译",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-042",
+    "subject": "english",
+    "chapterId": "3.6",
+    "title": "代词指代、逻辑关系、时态语气、术语和上下文语义",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-043",
+    "subject": "english",
+    "chapterId": "3.6",
+    "title": "英译汉重组：拆分长句、补出省略、调整语序、避免逐词硬译",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-044",
+    "subject": "english",
+    "chapterId": "3.6",
+    "title": "译文标准：忠实、通顺、准确；检查漏译、错译、逻辑断裂和中文不自然",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-045",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "应用文格式：称呼、正文、结尾、署名、日期；书信、通知、邀请、道歉、感谢、申请、建议信、告示等",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-046",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "应用文功能表达：提出请求、解释原因、提供建议、表达感谢/道歉、确认安排",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-047",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "大作文图表：柱状图、折线图、饼图、表格、动态图；趋势、比较、峰值、比例、原因和意义",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-048",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "大作文图画/漫画：描述画面、揭示寓意、解释原因、提出评价或建议",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-049",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "三段式组织：现象/描述—分析—结论/建议；段落主题句与衔接",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-050",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "高频功能词：因果、转折、递进、举例、让步、总结、比较、趋势和程度",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-051",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "句式升级：定语从句、非谓语、被动、名词化、同义替换；避免模板痕迹和语法错误",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "english-052",
+    "subject": "english",
+    "chapterId": "3.7",
+    "title": "小作文 100 词左右、大作文 160—200 词左右的时间和字数控制，以当年大纲为准",
+    "keywords": [
+      "英语一",
+      "词汇",
+      "长难句",
+      "阅读",
+      "写作"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-001",
+    "subject": "math2",
+    "chapterId": "4.1",
+    "title": "函数：定义域、值域、复合函数、反函数、初等函数、分段函数、参数方程",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-002",
+    "subject": "math2",
+    "chapterId": "4.1",
+    "title": "数列极限：定义、性质、夹逼准则、单调有界准则、子列和收敛",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-003",
+    "subject": "math2",
+    "chapterId": "4.1",
+    "title": "函数极限：左右极限、无穷小与无穷大、等价无穷小、极限运算法则",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-004",
+    "subject": "math2",
+    "chapterId": "4.1",
+    "title": "极限计算：因式分解、有理化、等价替换、泰勒展开基础、洛必达法则、夹逼",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-005",
+    "subject": "math2",
+    "chapterId": "4.1",
+    "title": "连续：连续定义、间断点类型、闭区间连续函数性质、零点定理、介值定理",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-006",
+    "subject": "math2",
+    "chapterId": "4.1",
+    "title": "渐近线与极限综合；参数变化、分段函数连续性和可导性",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-007",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "导数定义、几何意义、物理意义；可导与连续的关系",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-008",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "导数和微分的运算法则；基本初等函数导数；复合、反函数、隐函数、参数方程求导",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-009",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "高阶导数；微分形式不变性；相关变化率",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-010",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "罗尔定理、拉格朗日中值定理、柯西中值定理；定理条件和结论",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-011",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "洛必达法则；未定式类型、使用条件和多次使用",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-012",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "单调性、极值、最值；费马定理；闭区间最值",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-013",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "凹凸性、拐点、渐近线、函数图像描绘",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-014",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "导数综合：零点个数、方程根、参数讨论、不等式证明、最值应用",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-015",
+    "subject": "math2",
+    "chapterId": "4.2",
+    "title": "曲率、弧微分等内容：按目标课程/真题要求选择性了解，通常不是数学二主线",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-016",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "原函数与不定积分；基本积分公式；换元法、分部积分法",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-017",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "有理函数、三角函数、简单根式函数积分",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-018",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "定积分定义、性质、几何意义；可积性",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-019",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "微积分基本定理；变上限积分；含参积分的求导",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-020",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "定积分换元法、分部积分法、奇偶性、区间对称性",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-021",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "反常积分的基本概念和收敛判断",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-022",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "定积分应用：平面图形面积、旋转体体积、平均值、物理/几何应用",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-023",
+    "subject": "math2",
+    "chapterId": "4.3",
+    "title": "积分不等式、积分估值、含参数积分和综合证明题",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-024",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "微分方程基本概念：阶、解、通解、特解、初值条件",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-025",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "可分离变量方程",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-026",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "齐次型一阶方程",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-027",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "一阶线性方程：通解公式、常数变易法",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-028",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "可降阶高阶方程：缺少一个自变量或因变量的情形",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-029",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "二阶常系数齐次线性方程：特征根、重根、共轭复根",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-030",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "简单二阶常系数非齐次线性方程：待定系数法",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-031",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "线性微分方程解的性质和结构；初值问题",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-032",
+    "subject": "math2",
+    "chapterId": "4.4",
+    "title": "微分方程简单应用：增长衰减、几何/物理模型",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-033",
+    "subject": "math2",
+    "chapterId": "4.5",
+    "title": "二元及多元函数：定义域、极限、连续",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-034",
+    "subject": "math2",
+    "chapterId": "4.5",
+    "title": "偏导数、高阶偏导数、混合偏导数",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-035",
+    "subject": "math2",
+    "chapterId": "4.5",
+    "title": "全微分、可微条件、连续/偏导/可微之间的关系",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-036",
+    "subject": "math2",
+    "chapterId": "4.5",
+    "title": "复合函数求导、隐函数求导、方向导数和梯度的基础概念",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-037",
+    "subject": "math2",
+    "chapterId": "4.5",
+    "title": "多元函数极值：无条件极值、条件极值、拉格朗日乘数法",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-038",
+    "subject": "math2",
+    "chapterId": "4.5",
+    "title": "二元函数极值判别；最值应用",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-039",
+    "subject": "math2",
+    "chapterId": "4.5",
+    "title": "多元微分综合：参数讨论、隐函数方程、几何和优化应用",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-040",
+    "subject": "math2",
+    "chapterId": "4.6",
+    "title": "二重积分定义、性质、几何意义",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-041",
+    "subject": "math2",
+    "chapterId": "4.6",
+    "title": "直角坐标计算：矩形区域、一般区域、先二后一/先一后二",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-042",
+    "subject": "math2",
+    "chapterId": "4.6",
+    "title": "极坐标变换：坐标关系、雅可比因子、区域边界和积分限",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-043",
+    "subject": "math2",
+    "chapterId": "4.6",
+    "title": "二重积分应用：面积、体积、质量、质心等基础应用",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-044",
+    "subject": "math2",
+    "chapterId": "4.6",
+    "title": "对称性、轮换次序、分块积分、区域画图",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-045",
+    "subject": "math2",
+    "chapterId": "4.6",
+    "title": "二重积分综合和参数积分；三重积分、曲线曲面积分、格林/高斯/斯托克斯定理不列为数学二主线",
+    "keywords": [
+      "高数",
+      "函数",
+      "极限",
+      "导数",
+      "微分",
+      "积分"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-046",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "行列式：定义、性质、展开、余子式/代数余子式、克拉默法则",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-047",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "矩阵：概念、运算、转置、逆矩阵、伴随矩阵、初等变换",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-048",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "矩阵的秩：定义、性质、求秩、满秩条件、矩阵等价",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-049",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "线性方程组：齐次/非齐次；高斯消元；解的判定；基础解系和通解",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-050",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "向量组：线性相关/无关、极大无关组、秩、向量组等价",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-051",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "向量空间基础：基、维数、坐标；线性表示",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-052",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "特征值与特征向量：定义、特征方程、性质、求法",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-053",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "相似矩阵和矩阵对角化；可对角化条件",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-054",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "实对称矩阵：特征值性质、正交矩阵、正交相似对角化",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-055",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "二次型：矩阵表示、合同变换、标准形、规范形、正定二次型判定",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-056",
+    "subject": "math2",
+    "chapterId": "4.7",
+    "title": "线性代数证明题：秩、可逆、解空间、特征值和正定性综合证明",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-057",
+    "subject": "math2",
+    "chapterId": "4.8",
+    "title": "无穷级数、幂级数、傅里叶级数",
+    "keywords": [],
+    "priority": "P2",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-058",
+    "subject": "math2",
+    "chapterId": "4.8",
+    "title": "三重积分、曲线积分、曲面积分、格林公式、高斯公式、斯托克斯公式",
+    "keywords": [],
+    "priority": "P2",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-059",
+    "subject": "math2",
+    "chapterId": "4.8",
+    "title": "数学一要求但数学二不要求的复杂多元微积分扩展",
+    "keywords": [],
+    "priority": "P2",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "math2-060",
+    "subject": "math2",
+    "chapterId": "4.8",
+    "title": "概率论与数理统计：数学二不考，但 843 明确要考概率和数理统计，不能因为数学二不考而跳过 843 概率",
+    "keywords": [],
+    "priority": "P2",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-001",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "随机试验、样本空间、随机事件；事件关系、事件运算、事件域",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-002",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "概率公理、古典概型、几何概型；加法公式、减法公式、乘法公式",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-003",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "条件概率、全概率公式、贝叶斯公式",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-004",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "事件独立性；两两独立与相互独立的区别",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-005",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "随机变量、分布函数、离散型/连续型随机变量",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-006",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "分布律、概率密度、分布函数三者关系；规范性和区间概率",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-007",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "常见离散分布：0—1 分布、二项分布、泊松分布、几何分布/超几何分布基础",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-008",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "常见连续分布：均匀分布、指数分布、正态分布、标准正态分布",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-009",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "随机变量函数的分布：单调变换、离散变量变换、分布函数法",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-010",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "二维随机变量：联合分布、边缘分布、条件分布、独立性、区域概率",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-011",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "二维变量函数：和、差、最大值、最小值等分布的求法",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-012",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "数学期望、方差、标准差；线性性质；常见分布数字特征",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-013",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "协方差、相关系数；独立与不相关的关系",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-014",
+    "subject": "843",
+    "chapterId": "5.1",
+    "title": "条件期望、全期望和全方差的基础应用",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-015",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "总体、个体、样本、样本容量；总体分布与样本分布",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确范围"
+  },
+  {
+    "id": "843-016",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "统计量：统计量定义、常见统计量、统计量与样本的关系",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确范围"
+  },
+  {
+    "id": "843-017",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "样本均值、样本方差、样本矩；无偏性",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "历年真题延伸，建议掌握"
+  },
+  {
+    "id": "843-018",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "抽样分布基本概念：正态总体下的卡方、t、F 分布及其关系",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "历年真题延伸，建议掌握"
+  },
+  {
+    "id": "843-019",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "参数估计：点估计、矩估计、最大似然估计、估计量评价",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "历年真题延伸，建议掌握"
+  },
+  {
+    "id": "843-020",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "区间估计、置信水平；假设检验、原假设与备择假设",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "历年真题延伸，建议掌握"
+  },
+  {
+    "id": "843-021",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "第一类错误、第二类错误、显著性水平、p 值、检验功效",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "历年真题延伸，建议掌握"
+  },
+  {
+    "id": "843-022",
+    "subject": "843",
+    "chapterId": "5.2",
+    "title": "大数定律和中心极限定理的基本含义、适用条件和直观解释",
+    "keywords": [
+      "概率",
+      "随机变量",
+      "分布",
+      "统计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "历年真题延伸，建议掌握"
+  },
+  {
+    "id": "843-023",
+    "subject": "843",
+    "chapterId": "5.3",
+    "title": "行列式的定义、性质、展开和计算",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确范围"
+  },
+  {
+    "id": "843-024",
+    "subject": "843",
+    "chapterId": "5.3",
+    "title": "矩阵的定义、类型、加减乘、转置、逆矩阵和分块矩阵基础",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确范围"
+  },
+  {
+    "id": "843-025",
+    "subject": "843",
+    "chapterId": "5.3",
+    "title": "矩阵的初等变换、阶梯形、秩",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确范围"
+  },
+  {
+    "id": "843-026",
+    "subject": "843",
+    "chapterId": "5.3",
+    "title": "用初等变换解线性方程组；齐次与非齐次方程组；解的判定",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确范围"
+  },
+  {
+    "id": "843-027",
+    "subject": "843",
+    "chapterId": "5.3",
+    "title": "线性相关、向量组秩、基础解系和通解",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P1",
+    "sectionTitle": "与数学二复用的强化内容"
+  },
+  {
+    "id": "843-028",
+    "subject": "843",
+    "chapterId": "5.3",
+    "title": "特征值和特征向量、相似和对角化",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P1",
+    "sectionTitle": "与数学二复用的强化内容"
+  },
+  {
+    "id": "843-029",
+    "subject": "843",
+    "chapterId": "5.3",
+    "title": "对称矩阵、正交矩阵、二次型和正定性；数学二稳定后再补",
+    "keywords": [
+      "线代",
+      "矩阵",
+      "向量",
+      "线性方程组",
+      "特征值"
+    ],
+    "priority": "P1",
+    "sectionTitle": "与数学二复用的强化内容"
+  },
+  {
+    "id": "843-030",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "二进制、八进制、十进制、十六进制的相互转换",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：数值、数字/字符表示和编码"
+  },
+  {
+    "id": "843-031",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "不同进制的加减乘除、位权、整数与小数表示",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：数值、数字/字符表示和编码"
+  },
+  {
+    "id": "843-032",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "原码、反码、补码；符号数表示；补码加减和溢出判断",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：数值、数字/字符表示和编码"
+  },
+  {
+    "id": "843-033",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "定点数和浮点数；阶码/尾数；精度、上溢、下溢、规格化",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "官方明确：数值、数字/字符表示和编码"
+  },
+  {
+    "id": "843-034",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "数字编码：BCD、ASCII、Unicode/UTF-8 的基本概念和差异",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：数值、数字/字符表示和编码"
+  },
+  {
+    "id": "843-035",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "奇偶校验、汉明码、CRC 等编码/校验基础；以真题和教材题为准",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "官方明确：数值、数字/字符表示和编码"
+  },
+  {
+    "id": "843-036",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "计算机系统层次：硬件、软件、操作系统、应用软件；冯·诺依曼结构",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-037",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "CPU：运算器、控制器、寄存器、ALU、控制信号、指令周期",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-038",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "指令和寻址：指令格式、操作码、地址码、立即/直接/间接/寄存器寻址",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-039",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "存储系统：内存、外存、寄存器、Cache；容量、速度和层次结构",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-040",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "Cache：命中率、直接映射/组相联/全相联、地址划分、替换和写策略",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-041",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "输入输出系统：I/O 接口、程序查询、中断、DMA；CPU 占用比较",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-042",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "总线：数据总线、地址总线、控制总线；带宽、传输速率和时序",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-043",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "性能：主频、CPI、指令数、执行时间、吞吐率和响应时间",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-044",
+    "subject": "843",
+    "chapterId": "5.4",
+    "title": "并行和多核、GPU 与 CPU 的基本差异；不要扩展到复杂体系结构证明",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "官方明确：计算机硬件组成等基础知识"
+  },
+  {
+    "id": "843-045",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "数据、数据元素、数据项、数据对象、数据结构；逻辑结构与存储结构",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "A. 集合与算法的基本概念"
+  },
+  {
+    "id": "843-046",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "集合、线性结构、树形结构、图状结构；抽象数据类型及其运算",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "A. 集合与算法的基本概念"
+  },
+  {
+    "id": "843-047",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "算法的定义、特性、设计要求；算法与程序的区别",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "A. 集合与算法的基本概念"
+  },
+  {
+    "id": "843-048",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "算法正确性、可读性、健壮性、可实现性和效率",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "A. 集合与算法的基本概念"
+  },
+  {
+    "id": "843-049",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "时间复杂度、空间复杂度；最好/最坏/平均情况；大 O、Ω、Θ 基础",
+    "keywords": [],
+    "priority": "P0",
+    "sectionTitle": "A. 集合与算法的基本概念"
+  },
+  {
+    "id": "843-050",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "递归、分治、迭代、贪心、动态规划思想；以题目要求能写伪代码为准",
+    "keywords": [],
+    "priority": "P1",
+    "sectionTitle": "A. 集合与算法的基本概念"
+  },
+  {
+    "id": "843-051",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "线性表的顺序存储：随机访问、插入、删除、扩容、时间复杂度",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-052",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "单链表、双链表、循环链表、带头结点链表；插入、删除、查找、逆置、合并",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-053",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "顺序表与链表的适用场景比较；有序表操作和复杂度",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-054",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "栈：顺序栈、链栈、入栈、出栈、判空、判满、栈溢出",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-055",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "队列：顺序队列、循环队列、链式队列、入队、出队、队空/队满",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-056",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "栈和队列的应用：括号匹配、表达式求值、递归、迷宫、层序遍历、缓冲",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-057",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "字符串：串的存储、模式匹配、朴素匹配；KMP 的 next/nextval 了解",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-058",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "数组和特殊矩阵：稀疏矩阵、三元组、对称矩阵、压缩存储、地址计算",
+    "keywords": [
+      "数据结构绪论算法复杂度",
+      "时间复杂度空间复杂度",
+      "递归分治算法。"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 线性结构"
+  },
+  {
+    "id": "843-059",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "树的定义、结点关系、度、层次、高度、路径、森林",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-060",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "二叉树性质、满二叉树、完全二叉树、二叉链表",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-061",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "二叉树先序、中序、后序、层序遍历；遍历序列还原二叉树",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-062",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "线索二叉树；线索化、前驱和后继、插入/遍历基础",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-063",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "二叉排序树：查找、插入、删除；平衡性和复杂度",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-064",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "堆和优先队列；大根堆/小根堆、建堆、插入、删除、堆排序",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-065",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "哈夫曼树、哈夫曼编码、带权路径长度",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-066",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "图的概念：顶点、边、度、路径、连通、带权图、有向图/无向图",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-067",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "邻接矩阵、邻接表；两种存储结构的空间和操作差异",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-068",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "深度优先搜索 DFS、广度优先搜索 BFS；遍历树和连通分量",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-069",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "生成树、最小生成树；Prim、Kruskal 的思想和步骤",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-070",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "最短路径：Dijkstra、Floyd 基本思想；拓扑排序、关键路径了解",
+    "keywords": [
+      "线性表链表",
+      "栈和队列",
+      "循环队列",
+      "串KMP",
+      "稀疏矩阵三元组。",
+      "图",
+      "DFS",
+      "BFS",
+      "最短路径",
+      "最小生成树"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 树和图"
+  },
+  {
+    "id": "843-071",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "顺序查找、折半查找；查找过程、判定树、最多/平均比较次数",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-072",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "分块查找、索引查找基础；有序表与无序表的适用条件",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-073",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "散列表：哈希函数、冲突、开放定址、线性探测、再散列、装填因子",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-074",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "插入排序：直接插入、折半插入、希尔排序",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-075",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "交换排序：冒泡排序、快速排序；分区过程、递归和复杂度",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-076",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "选择排序：简单选择、堆排序",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-077",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "归并排序：二路归并、链式结构归并、递归过程和复杂度",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-078",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "基数排序、外部排序、大数据排序的基本思路",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-079",
+    "subject": "843",
+    "chapterId": "5.5",
+    "title": "稳定性、原地性、最好/最坏/平均时间复杂度、空间复杂度比较",
+    "keywords": [
+      "二叉树遍历",
+      "线索二叉树",
+      "堆排序",
+      "图的DFS BFS",
+      "最小生成树",
+      "最短路径。",
+      "查找",
+      "二叉搜索树",
+      "AVL",
+      "红黑树",
+      "哈希"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 查找与排序"
+  },
+  {
+    "id": "843-080",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "操作系统的目标、功能、特征和基本类型；硬件、操作系统、应用程序关系",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-081",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "进程和线程：状态、控制块、创建/撤销、切换、并发与并行",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-082",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "处理机调度：先来先服务、短作业优先、优先级、时间片轮转；周转时间和响应时间",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-083",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "进程同步与互斥；临界区、信号量、管程、生产者—消费者问题",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-084",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "死锁：必要条件、预防、避免、检测和解除；银行家算法了解",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-085",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "存储管理：连续分配、分页、分段、虚拟内存、页面置换",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-086",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "文件系统：文件、目录、存储空间、文件分配、索引、权限",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-087",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "I/O 管理、设备管理、缓冲、缓存、中断和 DMA 的软件侧联系",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "A. 资源管理技术"
+  },
+  {
+    "id": "843-088",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "数据库、数据库管理系统、数据库系统；数据模型和三级模式",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-089",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "实体—联系模型：实体、属性、联系、ER 图及关系模型转换",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-090",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "关系模型：关系、元组、属性、域、候选键、主键、外键",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-091",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "关系代数：选择、投影、连接、并、交、差、笛卡尔积",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-092",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "SQL：建表、增删改查、条件、分组、聚合、排序、连接、子查询、视图",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-093",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "完整性约束：实体完整性、参照完整性、用户定义完整性",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-094",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "函数依赖、候选键；第一、第二、第三范式和 BCNF 的基本判断",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-095",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "数据库设计：需求分析、概念结构、逻辑结构、物理结构、实施和维护",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-096",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "事务：ACID、并发控制、锁、隔离级别、脏读/不可重复读/幻读",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-097",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "索引、查询优化、备份恢复、数据库安全",
+    "keywords": [
+      "操作系统进程线程",
+      "CPU调度",
+      "进程同步死锁",
+      "虚拟内存页面置换",
+      "文件系统。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "B. 数据库设计技术"
+  },
+  {
+    "id": "843-098",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "软件工程基本概念：软件危机、软件生命周期、软件过程模型",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-099",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "需求分析：功能/非功能需求、用户故事、用例、需求规格说明、需求验证",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-100",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "系统设计：总体设计、详细设计、模块化、信息隐蔽、低耦合高内聚",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-101",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "常见架构：分层、客户端—服务器、B/S、MVC、前后端分离、服务化基础",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-102",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "面向对象：类、对象、封装、继承、多态、接口；基本 UML 类图/用例图/时序图",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-103",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "软件测试：单元、集成、系统、验收；黑盒/白盒；等价类、边界值、路径覆盖",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-104",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "软件维护、版本管理、配置管理、重构、可维护性和可靠性",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-105",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "敏捷开发、迭代开发、原型开发、持续集成；适用于互联网产品的开发流程",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-106",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "Web 基础：HTTP 请求响应、API、状态、前端/后端/数据库协作；不以具体框架 API 为重点",
+    "keywords": [
+      "数据库ER图",
+      "关系代数",
+      "SQL连接分组",
+      "数据库范式",
+      "事务ACID并发控制。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 应用软件设计与开发技术"
+  },
+  {
+    "id": "843-107",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "大数据概念和特征：规模、速度、多样性、价值、真实性；数据生命周期",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-108",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "结构化/半结构化/非结构化数据；数据采集、清洗、存储、处理、分析和可视化",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-109",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "分布式系统、分布式存储、并行计算、批处理与流处理、MapReduce 基本思想",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-110",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "数据仓库、数据湖、NoSQL；关系数据库与非关系数据库的选择",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-111",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "人工智能基本概念、发展阶段、典型任务和应用领域",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-112",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "机器学习基本范式：监督学习、无监督学习、强化学习",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-113",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "训练集/验证集/测试集；特征、标签、模型、损失、优化、过拟合、欠拟合",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-114",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "分类、回归、聚类、降维、推荐、预测；准确率、召回率、F1、混淆矩阵",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-115",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "神经网络和深度学习概述；训练、泛化、偏差/方差；计算机视觉和自然语言处理应用",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-116",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "生成式 AI、大语言模型、智能体、工具调用、人与 AI 协作的基本概念",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-117",
+    "subject": "843",
+    "chapterId": "5.6",
+    "title": "数据偏差、隐私、安全、可解释性、算法公平、知识产权和责任伦理",
+    "keywords": [
+      "软件工程生命周期",
+      "需求分析用例",
+      "软件设计耦合内聚",
+      "面向对象UML",
+      "软件测试方法。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 大数据技术与人工智能概述"
+  },
+  {
+    "id": "843-118",
+    "subject": "843",
+    "chapterId": "5.7",
+    "title": "网络基本概念：网络拓扑、局域网/广域网、带宽、时延、吞吐量、数据通信方式",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-119",
+    "subject": "843",
+    "chapterId": "5.7",
+    "title": "OSI 七层和 TCP/IP 分层；各层功能、典型协议、PDU 名称",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-120",
+    "subject": "843",
+    "chapterId": "5.7",
+    "title": "物理层：信号、信道、奈奎斯特定理、香农定理、传输介质、同步/异步传输",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-121",
+    "subject": "843",
+    "chapterId": "5.7",
+    "title": "数据链路层：帧、差错检测、CRC、流量控制、以太网、交换机、MAC",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-122",
+    "subject": "843",
+    "chapterId": "5.7",
+    "title": "网络层：IPv4、子网掩码、广播地址、CIDR、路由、ICMP、IPv6 基础",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-123",
+    "subject": "843",
+    "chapterId": "5.7",
+    "title": "传输层：TCP/UDP、端口、连接、可靠传输、流量控制、拥塞控制",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-124",
+    "subject": "843",
+    "chapterId": "5.7",
+    "title": "应用层：HTTP/HTTPS、DNS、FTP、SMTP、DHCP、Ping；防火墙和网络安全基础",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-125",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "从现实生活发现问题：现象、痛点、矛盾、机会和未满足需求",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 洞察力"
+  },
+  {
+    "id": "843-126",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "区分“用户说要什么”和“用户真正需要什么”；识别目标用户、场景、任务和限制",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 洞察力"
+  },
+  {
+    "id": "843-127",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "利益相关者、用户旅程、痛点优先级、需求真实性和可验证性",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "A. 洞察力"
+  },
+  {
+    "id": "843-128",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "观察、访谈、问卷、竞品分析、情境分析、用户画像和问题定义",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "A. 洞察力"
+  },
+  {
+    "id": "843-129",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "从个人体验上升到社会、文化、环境、伦理和公共价值分析",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "A. 洞察力"
+  },
+  {
+    "id": "843-130",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "快速理解题目背景、陌生技术、用户群体和相关行业",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 学习力"
+  },
+  {
+    "id": "843-131",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "将跨学科知识转化为设计判断，而不是堆砌术语",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "B. 学习力"
+  },
+  {
+    "id": "843-132",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "从案例中提取目标、方法、机制、结果、限制和可迁移经验",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "B. 学习力"
+  },
+  {
+    "id": "843-133",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "面对不确定信息提出假设、查证依据、识别风险和说明未知部分",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "B. 学习力"
+  },
+  {
+    "id": "843-134",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "解释 AI、游戏、VR、空间计算等技术如何服务具体用户价值",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "B. 学习力"
+  },
+  {
+    "id": "843-135",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "用户中心设计、问题导向设计、设计思维的基本流程：同理—定义—构思—原型—测试",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-136",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "发散与收敛；需求优先级；功能、成本、技术、伦理和可持续性的权衡",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-137",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "互联网+思维：连接、平台、数据、协作、迭代、网络效应和服务化",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-138",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "方案闭环：目标用户—核心问题—设计目标—功能机制—交互流程—验证指标",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-139",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "用户中心设计不等于满足所有需求；需要识别核心需求、利益相关者和约束",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-140",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "通用设计、无障碍设计、参与式设计、服务设计、社会创新设计",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-141",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "可持续设计、循环设计、设计伦理、隐私保护、算法公平、计划性淘汰批判",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-142",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "数字媒体、互动媒体、游戏机制、叙事、沉浸、反馈、奖励、留存和数值平衡",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-143",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "AI 交互、智能体、生成式内容、人与 AI 共创；能力边界、幻觉、控制权和责任",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-144",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "产品评价：易用性、可用性、有效性、效率、满意度、留存、转化、完成率和社会影响",
+    "keywords": [
+      "设计洞察用户研究",
+      "需求分析用户画像",
+      "用户旅程痛点",
+      "问题定义。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "C. 思维力"
+  },
+  {
+    "id": "843-145",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "设计题读题：圈出目标用户、场景、问题、限制、交付形式和评价要求",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-146",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "方案结构：问题/用户—目标—核心机制—功能—流程—反馈—验证—风险",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-147",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "画面表达：标题、分区、层级、构图、线条、比例、箭头、编号、文字注释",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-148",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "交互表达：页面/场景状态、入口、操作、反馈、异常、退出和循环路径",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-149",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "低保真线框图、用户流程图、信息架构、故事板、场景图、角色/道具关系图",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-150",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "基础视觉：点线面、形态、比例、节奏、对比、统一、色彩和字体可读性",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-151",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "手绘速度：先布局后细化；先保证信息完整，再补视觉效果",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-152",
+    "subject": "843",
+    "chapterId": "5.8",
+    "title": "文字说明：用简短段落说明用户、问题、方案、创新点和验证方式；避免只写口号",
+    "keywords": [
+      "设计思维用户中心设计",
+      "通用设计参与式设计",
+      "服务设计社会创新",
+      "可持续设计设计伦理",
+      "游戏设计叙事互动媒体",
+      "AI交互智能体。",
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "D. 表现力"
+  },
+  {
+    "id": "843-153",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "设计、艺术设计、功能、形式、审美、技术、材料、文化、社会价值",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-154",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "用户中心设计、设计思维、参与式设计、通用设计、无障碍设计",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-155",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "数字媒体、互动媒体、交互设计、界面、沉浸、虚拟现实、增强现实",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-156",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "游戏、游戏机制、游戏叙事、互动叙事、奖励、成就、留存、数值平衡",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-157",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "社会创新、服务设计、可持续设计、循环设计、设计伦理",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P0",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-158",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "非物质设计、网站转化率、用户留存率、可用性、用户体验、产品价值",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-159",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "人工智能、生成式 AI、智能体、新型交互、算法偏见、隐私和责任",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  },
+  {
+    "id": "843-160",
+    "subject": "843",
+    "chapterId": "5.9",
+    "title": "生态、教育、健康、低收入群体、老年人、残障用户、公共服务等社会议题案例",
+    "keywords": [
+      "843",
+      "计算机基础",
+      "数据库",
+      "软件工程",
+      "AI",
+      "创新设计"
+    ],
+    "priority": "P1",
+    "sectionTitle": "总览"
+  }
+]

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>附近的值，正在靠近哪里？｜专注阅读样张</title>
+  <link rel="stylesheet" href="vendor/katex/katex.min.css">
+  <link rel="stylesheet" href="focus-reading.css">
+</head>
+<body>
+  <a class="skip" href="#lesson">跳到正在阅读的内容</a>
+  <div class="page">
+    <header class="masthead">
+      <div class="edition"><span>数学研读 / 独立阅读样张</span><a href="函数极限连续-样张.html">对照原版讲义 ↗</a></div>
+      <div class="headline"><div><p class="eyebrow">第一章 · 极限入门</p><h1>附近的值，正在靠近哪里？</h1><p class="intro">从一个简单算式开始，把“极限”和“函数值”分清楚。</p></div><p class="issue">一个问题<br>四个小节</p></div>
+    </header>
+    <div id="resume" class="resume" hidden></div>
+    <div class="layout">
+      <aside class="rail" aria-label="阅读路线">
+        <p class="rail-label">这一小课</p>
+        <nav id="steps" aria-label="小节目录">
+          <a href="#part-0" data-step="0"><span>01</span><span>先算几个数</span><span class="done"></span></a>
+          <a href="#part-1" data-step="1"><span>02</span><span>为什么少一个点</span><span class="done"></span></a>
+          <a href="#part-2" data-step="2"><span>03</span><span>看两边怎样靠近</span><span class="done"></span></a>
+          <a href="#part-3" data-step="3"><span>04</span><span>用一道题分清楚</span><span class="done"></span></a>
+        </nav>
+        <div id="reading-tools" hidden>
+          <p id="progress-text">已确认理解 0 / 4 节</p><progress id="progress" max="4" value="0" aria-label="已确认理解的小节数"></progress>
+          <button id="mode" class="text-button" type="button" aria-pressed="true">专注阅读：已开启</button>
+          <p class="quiet">一次看一节。关闭后可浏览全文，随时切换。</p>
+          <p id="save-note" class="quiet">阅读位置保存在当前浏览器。</p>
+        </div>
+      </aside>
+      <main id="lesson" tabindex="-1">
+        <section id="part-0" data-unit="0" aria-labelledby="title-0">
+          <p class="section-number">01 / 04 · 先建立直觉</p><h2 id="title-0" tabindex="-1">输入换了，输出怎么算？</h2>
+          <p class="goal"><b>这一节只做一件事</b><br>会用“输入加1”这条规则算出输出。</p>
+          <p>把 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.4306em;"></span><span class="mord mathnormal">x</span></span></span></span></span> 想成你选的数，<span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi></mrow><annotation encoding="application/x-tex">y</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">y</span></span></span></span></span> 是算出来的数。规则写成 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">y=x+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">y</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span></span>，就是“选一个数，再加1”。</p>
+          <div class="number-row" aria-label="输入与输出的三个例子">
+            <div><span>输入 0</span><span aria-hidden="true">↓ 加1</span><b>输出 1</b></div>
+            <div><span>输入 0.9</span><span aria-hidden="true">↓ 加1</span><b>输出 1.9</b></div>
+            <div><span>输入 0.99</span><span aria-hidden="true">↓ 加1</span><b>输出 1.99</b></div>
+          </div>
+          <fieldset class="quick-check" data-question="warmup"><legend>停一下，自己算：输入0.999，输出是多少？</legend><div class="choices"><button type="button" data-answer="wrong">0.999</button><button type="button" data-answer="correct">1.999</button><button type="button" data-answer="near">2</button></div><p class="feedback" aria-live="polite">先选一个答案，再看解释。</p></fieldset>
+          <p class="takeaway"><b>带走一句话</b><br>输入靠近1时，“加1”得到的输出会靠近2。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="0">这节懂了，继续 →</button><span>下一节：原式为什么不能取1？</span></div>
+        </section>
+        <section id="part-1" data-unit="1" aria-labelledby="title-1">
+          <p class="section-number">02 / 04 · 把条件说清楚</p><h2 id="title-1" tabindex="-1">算式看起来一样，能取的数不同</h2>
+          <p class="goal"><b>这一节只做一件事</b><br>弄懂为什么下面这个函数，在输入1时没有输出。</p>
+          <p>现在换一条规则。<span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">f(x)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.1076em;">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span></span></span></span></span> 读作“输入x时的函数值”，也就是输出：</p>
+          <div class="formula"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">f(x)=\frac{x^2-1}{x-1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.1076em;">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:2.2604em;vertical-align:-0.7693em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.4911em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.7693em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></div>
+          <ol class="reasoning">
+            <li><b>先试输入1。</b><p>分母变成 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mo>−</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">1-1=0</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">0</span></span></span></span></span>。除数不能是0，所以原函数没有 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">f(1)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.1076em;">f</span><span class="mopen">(</span><span class="mord">1</span><span class="mclose">)</span></span></span></span></span> 这个值。</p></li>
+            <li><b>其他输入，可以化简。</b><p>分子能写成 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(x-1)(x+1)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mclose">)</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mclose">)</span></span></span></span></span>。乘回去检查：<span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">x^2+x-x-1=x^2-1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8974em;vertical-align:-0.0833em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.8974em;vertical-align:-0.0833em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span></span>。</p><div class="formula"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mfrac><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mi>x</mi><mo>+</mo><mn>1</mn><mspace width="1em"></mspace><mo stretchy="false">(</mo><mi>x</mi><mo mathvariant="normal">≠</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">\frac{(x-1)(x+1)}{x-1}=x+1\quad (x\ne1)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:2.1963em;vertical-align:-0.7693em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.427em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span><span class="mclose">)</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span><span class="mclose">)</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.7693em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:1em;"></span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel"><span class="mrel"><span class="mord katex-vbox"><span class="katex-thinbox"><span class="rlap"><span class="katex-strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="katex-inner"><span class="mord"><span class="mrel"></span></span></span><span class="katex-fix"></span></span></span></span></span><span class="mspace nobreak"></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mclose">)</span></span></span></span></span></div><p>只有x不等于1时，才能约去不为0的 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">x-1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span></span>。</p></li>
+            <li><b>所以，附近仍按“加1”计算。</b><p>输入0.99，输出1.99；输入1.01，输出2.01。但输入恰好等于1时，原式仍然不能计算。</p></li>
+          </ol>
+          <p class="takeaway"><b>带走一句话</b><br>化简保留了附近的计算规则，没有补上原本缺失的那个点。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="1">这节懂了，去看图 →</button><button type="button" class="text-button" data-back="0">← 回看上一节</button></div>
+        </section>
+        <section id="part-2" data-unit="2" aria-labelledby="title-2">
+          <p class="section-number">03 / 04 · 自己控制节奏</p><h2 id="title-2" tabindex="-1">点可以空着，附近却有方向</h2>
+          <p class="goal"><b>这一节只看两件事</b><br>输入是否靠近1？两边的输出是否都靠近2？</p>
+          <p>横轴x看输入，纵轴y看输出。空心圆 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><mn>1</mn><mo separator="true">,</mo><mn>2</mn><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">(1,2)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord">1</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord">2</span><span class="mclose">)</span></span></span></span></span> 表示这个位置缺了一个点；两个实心点表示左右附近的输入和输出。</p>
+          <figure><div data-graph=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" role="img" aria-labelledby="approach-title approach-desc"><title id="approach-title">从两边靠近同一个点</title><desc id="approach-desc">直线y=x+1在(1,2)处有一个空心点。左边的点从(0.2,1.2)出发，右边的点从(1.8,2.8)出发，都可以沿直线靠近(1,2)，但不取x=1。</desc><style>text{font-family:"Microsoft YaHei",sans-serif;fill:#242923;font-size:20px}.axis{fill:none;stroke:#8c9389;stroke-width:1.4}.guide{fill:none;stroke:#a8b5aa;stroke-width:1.5;stroke-dasharray:5 5}.curve{fill:none;stroke:#365d49;stroke-width:3}.point{fill:#365d49;stroke:#f8f7f3;stroke-width:2}.hole{fill:#f8f7f3;stroke:#365d49;stroke-width:3}</style><path class="axis" d="M60 30V280H525" /><path class="axis" d="M55 40L60 30L65 40M515 275L525 280L515 285" /><text x="535" y="287">x</text><text x="35" y="32">y</text><text x="40" y="303">0</text><path class="guide" d="M280 280V45" /><text x="273" y="305">1</text>
+    <path class="guide" d="M60 130H500" /><text x="34" y="137">2</text>
+    <path class="curve" d="M60 205L500 55" />
+    <circle data-role="left-dot" class="point" cx="104" cy="190" r="7" />
+    <circle data-role="right-dot" class="point" cx="456" cy="70" r="7" />
+    <circle class="hole" cx="280" cy="130" r="7" />
+    <text x="302" y="117">(1, 2)</text><text x="360" y="220">y = x + 1</text></svg></div><figcaption>原函数的图像：沿着 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">y=x+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">y</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span></span>，但不取x＝1。</figcaption></figure>
+          <div class="graph-controls"><button id="closer" class="primary" type="button">再靠近一步 →</button><button id="restart-graph" class="text-button" type="button">回到起点</button><span id="graph-step">观察 1 / 4</span></div>
+          <div id="graph-readout" class="graph-readout" aria-live="polite"><p>左侧：输入 <b>0.200</b> → 输出 <b>1.200</b></p><p>右侧：输入 <b>1.800</b> → 输出 <b>2.800</b></p></div>
+          <p id="graph-note" class="quiet">按一次，靠近一步。没有自动播放，可以停下来比较数字。</p>
+          <details><summary>为什么几次观察，还不等于证明？</summary><p>图只展示有限几个数。真正的理由是：x不等于1时，输出就是x＋1；输入离1有多近，输出就离2有多近。想把输出误差变得更小，只要把输入也靠得更近。这可以一直做下去。</p></details>
+          <p class="takeaway"><b>给刚才的观察一个名字：极限</b><br>“x趋于1时，f(x)的极限是2”，写成 <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow><mi>lim</mi><mo>⁡</mo></mrow><mrow><mi>x</mi><mo>→</mo><mn>1</mn></mrow></msub><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">\lim_{x\to1}f(x)=2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop"><span class="mop">lim</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span><span class="mrel mtight">→</span><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.1076em;">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6444em;"></span><span class="mord">2</span></span></span></span></span>。它说的是附近的趋势。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="2">这节懂了，试一道题 →</button><button type="button" class="text-button" data-back="1">← 回看上一节</button></div>
+        </section>
+        <section id="part-3" data-unit="3" aria-labelledby="title-3">
+          <p class="section-number">04 / 04 · 用自己的判断收尾</p><h2 id="title-3" tabindex="-1">把缺的点放在7，会改变极限吗？</h2>
+          <p class="goal"><b>这一节只分清两件事</b><br>“这个点真正的值”和“附近正在靠近的值”。</p>
+          <p>我们另定义一个新函数：x不等于1时，仍然按x＋1计算；在x＝1处，单独规定输出是7。</p>
+          <div class="formula"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo fence="true">{</mo><mtable rowspacing="0.36em" columnalign="left left" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo separator="true">,</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mrow><mi>x</mi><mo mathvariant="normal">≠</mo><mn>1</mn><mo separator="true">,</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mrow><mn>7</mn><mo separator="true">,</mo></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mrow><mi>x</mi><mo>=</mo><mn>1.</mn></mrow></mstyle></mtd></mtr></mtable></mrow></mrow><annotation encoding="application/x-tex">g(x)=\begin{cases}x+1,&amp;x\ne1,\\7,&amp;x=1.\end{cases}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.0359em;">g</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:3em;vertical-align:-1.25em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size4">{</span></span><span class="mord"><span class="mtable"><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.69em;"><span style="top:-3.69em;"><span class="pstrut" style="height:3.008em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord">1</span><span class="mpunct">,</span></span></span><span style="top:-2.25em;"><span class="pstrut" style="height:3.008em;"></span><span class="mord"><span class="mord">7</span><span class="mpunct">,</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.19em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:1em;"></span><span class="col-align-l"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.69em;"><span style="top:-3.69em;"><span class="pstrut" style="height:3.008em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel"><span class="mrel"><span class="mord katex-vbox"><span class="katex-thinbox"><span class="rlap"><span class="katex-strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="katex-inner"><span class="mord"><span class="mrel"></span></span></span><span class="katex-fix"></span></span></span></span></span><span class="mspace nobreak"></span><span class="mrel">=</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mord">1</span><span class="mpunct">,</span></span></span><span style="top:-2.25em;"><span class="pstrut" style="height:3.008em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mord">1.</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.19em;"><span></span></span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></div>
+          <fieldset class="quick-check" data-question="value"><legend>① 恰好输入1，函数值g(1)是多少？</legend><div class="choices"><button type="button" data-answer="wrong">2</button><button type="button" data-answer="correct">7</button><button type="button" data-answer="none">没有定义</button></div><p class="feedback" aria-live="polite">看题目对这个点的单独规定。</p></fieldset>
+          <fieldset class="quick-check" data-question="limit"><legend>② x从左右靠近1时，g(x)的极限是多少？</legend><div class="choices"><button type="button" data-answer="correct">2</button><button type="button" data-answer="wrong">7</button><button type="button" data-answer="none">不存在</button></div><p class="feedback" aria-live="polite">想一想：附近的计算规则变了吗？</p></fieldset>
+          <p id="quiz-summary" class="takeaway" hidden><b>两件事，现在分开了</b><br>函数值是7，极限是2。附近的趋势没有接上这个点，所以这个新函数在x＝1处不连续。</p>
+          <p class="quiet">拿不准，可以回到第3节，再看一次左右两边。</p>
+          <div class="section-actions"><button type="button" class="primary" data-complete="3">这节懂了，完成这一小课</button><button type="button" class="text-button" data-back="2">← 回图上看看</button></div>
+          <div id="finish" class="finish" hidden tabindex="-1"><h3>这一小课，先学到这里。</h3><p>试着用自己的话说一句：<b>极限看附近，函数值看这个点。</b></p><p>可以休息一下，也可以<a href="函数极限连续-样张.html#continuity">接着读原版的“连续”</a>。回来时，这里会记住你的进度。</p></div>
+        </section>
+        <p id="reader-status" class="reader-status" role="status"></p>
+      </main>
+    </div>
+    <footer><span>专注阅读样张 · 极限入门</span><button id="reset-sample" class="text-button" type="button">重置样张进度</button></footer>
+  </div>
+  <script data-interactions="">(() => {
+  const key = 'math-focus-sample-v1';
+  const sections = [...document.querySelectorAll('[data-unit]')];
+  const titles = ['先算几个数','为什么少一个点','看两边怎样靠近','用一道题分清楚'];
+  const recaps = ['我们从“输入加1”开始。','附近按x＋1计算，但原式不能输入1。','两边的输出都靠近2，空心点仍然空着。','函数值看这个点，极限看附近。'];
+  let state = { current: 0, focused: true, done: [], answers: {}, graph: 0 };
+  let returning = false;
+  try {
+    const saved = JSON.parse(localStorage.getItem(key));
+    if (saved && Number.isInteger(saved.current) && saved.current >= 0 && saved.current < 4) {
+      state.current = saved.current;
+      state.focused = saved.focused !== false;
+      state.done = Array.isArray(saved.done) ? [...new Set(saved.done.filter(n => Number.isInteger(n) && n>=0 && n<4))] : [];
+      state.answers = saved.answers && typeof saved.answers === 'object' ? saved.answers : {};
+      state.graph = Number.isInteger(saved.graph) && saved.graph>=0 && saved.graph<4 ? saved.graph : 0;
+      returning = true;
+    }
+  } catch { /* Reading remains available when browser storage is disabled. */ }
+  function save() {
+    try {localStorage.setItem(key,JSON.stringify(state));}
+    catch {document.querySelector('#save-note').textContent='当前浏览器无法保存进度，本次仍可正常阅读。';}
+  }
+  function render() {
+    document.body.classList.toggle('focused',state.focused);
+    sections.forEach((s,i)=>s.hidden=state.focused && i!==state.current);
+    document.querySelectorAll('[data-step]').forEach((a,i)=>{
+      if(i===state.current)a.setAttribute('aria-current','step');else a.removeAttribute('aria-current');
+      a.querySelector('.done').textContent=state.done.includes(i)?'✓':'';
+      a.setAttribute('aria-label',`${i+1} ${titles[i]}${state.done.includes(i)?'，已确认理解':''}`);
+    });
+    document.querySelector('#progress-text').textContent=`已确认理解 ${state.done.length} / 4 节`;
+    document.querySelector('#progress').value=state.done.length;
+    document.querySelector('#mode').textContent=`专注阅读：${state.focused?'已开启':'已关闭'}`;
+    document.querySelector('#mode').setAttribute('aria-pressed',String(state.focused));
+    document.querySelector('#finish').hidden=!state.done.includes(3);
+  }
+  function go(i, focus=true) {
+    state.current=i;render();save();
+    history.replaceState(null,'',`#part-${i}`);
+    if(focus){document.querySelector(`#title-${i}`).focus({preventScroll:true});sections[i].scrollIntoView({block:'start',behavior:'instant'});}
+    document.querySelector('#reader-status').textContent='';
+  }
+  document.querySelector('#reading-tools').hidden=false;
+  if(returning){const note=document.querySelector('#resume');note.hidden=false;note.textContent=`接着上次读的位置：第${state.current+1}节。${recaps[state.current]}`;}
+  document.querySelectorAll('[data-step]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();go(Number(a.dataset.step));}));
+  document.querySelectorAll('[data-back]').forEach(b=>b.addEventListener('click',()=>go(Number(b.dataset.back))));
+  document.querySelectorAll('[data-complete]').forEach(b=>b.addEventListener('click',()=>{
+    const i=Number(b.dataset.complete);
+    if(!state.done.includes(i))state.done.push(i);
+    if(i<3)go(i+1);else{render();save();document.querySelector('#finish').focus();}
+  }));
+  document.querySelector('#mode').addEventListener('click',()=>{state.focused=!state.focused;go(state.current);});
+  const explanations = {
+    warmup:{correct:'对。0.999＋1＝1.999。它很接近2，但还不等于2。',wrong:'这里选中的是输入。还要按规则加1：0.999＋1＝1.999。',near:'很接近，但还没到2。0.999＋1＝1.999；“靠近”和“等于”要分开。'},
+    value:{correct:'对。题目单独规定了g(1)＝7，要使用这条规则。',wrong:'2是附近正在靠近的值。恰好输入1时，要用单独规定的7。',none:'原来的函数在1处没有定义；这个新函数已补上g(1)＝7。'},
+    limit:{correct:'对。附近仍按x＋1计算，所以从两边都靠近2。单独改变一个点，不会改变附近的趋势。',wrong:'7是这个点的值。求极限要看附近，附近仍按x＋1计算，趋向的是2。',none:'左右两边都趋向2，所以极限存在。它可以和这个点的值7不同。'}
+  };
+  function answer(q,value){
+    const field=document.querySelector(`[data-question="${q}"]`);
+    if(!Object.hasOwn(explanations[q],value))return;
+    field.querySelectorAll('[data-answer]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.answer===value)));
+    const feedback=field.querySelector('.feedback');feedback.textContent=explanations[q][value];feedback.classList.toggle('correct',value==='correct');
+    document.querySelector('#quiz-summary').hidden=!(state.answers.value==='correct' && state.answers.limit==='correct');
+  }
+  document.querySelectorAll('[data-question]').forEach(field=>{
+    const q=field.dataset.question;
+    field.querySelectorAll('[data-answer]').forEach(b=>{
+      b.setAttribute('aria-pressed','false');
+      b.addEventListener('click',()=>{state.answers[q]=b.dataset.answer;answer(q,b.dataset.answer);save();});
+    });
+    if(state.answers[q])answer(q,state.answers[q]);
+  });
+  function graph(){
+    const distance=[.8,.2,.08,.04][state.graph];
+    const values=[1-distance,1+distance];
+    ['left','right'].forEach((side,i)=>{const dot=document.querySelector(`[data-role="${side}-dot"]`);dot.setAttribute('r','5');dot.setAttribute('cx',60+values[i]*220);dot.setAttribute('cy',280-(values[i]+1)*75);});
+    const lines=document.querySelectorAll('#graph-readout p');
+    values.forEach((x,i)=>{const nums=lines[i].querySelectorAll('b');nums[0].textContent=x.toFixed(3);nums[1].textContent=(x+1).toFixed(3);});
+    document.querySelector('#graph-step').textContent=`观察 ${state.graph+1} / 4`;
+    document.querySelector('#closer').disabled=state.graph===3;
+    document.querySelector('#graph-note').textContent=state.graph===3?'这次观察停在这里。输出更接近2了，但输入没有取到1；数学上的靠近还能继续。':'按一次，靠近一步。没有自动播放，可以停下来比较数字。';
+    document.querySelector('[data-graph] desc').textContent=`左侧输入${values[0].toFixed(3)}，输出${(values[0]+1).toFixed(3)}；右侧输入${values[1].toFixed(3)}，输出${(values[1]+1).toFixed(3)}。两点靠近空心点(1,2)，但不取x=1。`;
+  }
+  document.querySelector('#closer').addEventListener('click',()=>{state.graph=Math.min(3,state.graph+1);graph();save();});
+  document.querySelector('#restart-graph').addEventListener('click',()=>{state.graph=0;graph();save();});
+  document.querySelector('#reset-sample').addEventListener('click',()=>{
+    state={current:0,focused:true,done:[],answers:{},graph:0};
+    document.querySelectorAll('[data-answer]').forEach(b=>b.setAttribute('aria-pressed','false'));
+    document.querySelectorAll('.feedback').forEach(p=>{p.classList.remove('correct');p.textContent='先选一个答案，再看解释。';});
+    document.querySelector('#quiz-summary').hidden=true;
+    document.querySelector('#resume').hidden=true;
+    document.querySelectorAll('details').forEach(d=>d.open=false);
+    graph();go(0);document.querySelector('#reader-status').textContent='样张进度已重置，可以从头体验。';
+  });
+  window.addEventListener('hashchange',()=>{const match=location.hash.match(/^#part-([0-3])$/);if(match)go(Number(match[1]));});
+  const initial=location.hash.match(/^#part-([0-3])$/);if(initial)state.current=Number(initial[1]);
+  render();graph();save();
+})();
+</script>
+</body>
+</html>

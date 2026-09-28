@@ -1,0 +1,47 @@
+/* Focus courseware (PPT) overlay — math2 green / 843 navy via --ppt-accent. */
+.ppt-launch{margin-left:8px}
+.ppt-overlay{position:fixed;inset:0;z-index:40;background:var(--paper);color:var(--ink);display:flex;flex-direction:column;overflow:hidden}
+.ppt-overlay[hidden]{display:none!important}
+.ppt-overlay[data-course="843"]{background:#f7f9fb;color:#1a2430}
+.ppt-overlay[data-course="843"]{--ppt-accent:#365674;--ppt-wash:#EDF1F5;--ppt-line:#c5d0dc}
+.ppt-overlay[data-course=math2]{--ppt-accent:#365d49;--ppt-wash:#edf0e8;--ppt-line:#d2d6cc}
+.ppt-bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 28px;border-bottom:1px solid var(--ppt-line);background:var(--paper);flex:none}
+.ppt-overlay[data-course="843"] .ppt-bar{background:#f7f9fb}
+.ppt-bar h2{margin:0;font-size:18px;color:var(--ppt-accent);font-weight:600}
+.ppt-bar-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.ppt-progress{height:4px;background:var(--ppt-wash);flex:none}
+.ppt-progress>span{display:block;height:100%;background:var(--ppt-accent);width:0;transition:width .2s}
+.ppt-stage{flex:1;overflow:auto;padding:36px 48px 28px;max-width:980px;width:100%;margin:0 auto}
+.ppt-kicker{color:var(--ppt-accent);letter-spacing:.04em;margin-bottom:10px;font-size:14px}
+.ppt-stage h1{font:600 32px/1.4 Georgia,'Songti SC',SimSun,serif;margin:0 0 18px}
+.ppt-goal{border-left:3px solid var(--ppt-accent);padding:10px 0 10px 16px;margin:0 0 22px;color:var(--muted,#62685e)}
+.ppt-body{font-size:18px;line-height:1.85}
+.ppt-body p{margin:0 0 16px}
+.ppt-body .formula{overflow-x:auto;max-width:100%;padding:8px 0}
+.ppt-body pre{overflow-x:auto;max-width:100%}
+.ppt-body .table-wrap, .ppt-body table{max-width:100%;overflow-x:auto}
+.ppt-body .katex-display{overflow-x:auto;overflow-y:hidden;max-width:100%}
+.ppt-visual{margin:0 0 22px;padding:12px;border:1px solid var(--ppt-line);background:var(--ppt-wash);border-radius:2px;overflow-x:auto}
+.ppt-visual svg{max-width:100%;height:auto}
+.ppt-reveal{margin:20px 0;padding:16px 18px;border:1px solid var(--ppt-line);background:var(--ppt-wash);border-radius:2px}
+.ppt-reveal summary{cursor:pointer;color:var(--ppt-accent);font-weight:600;list-style:none}
+.ppt-reveal summary::-webkit-details-marker{display:none}
+.ppt-reveal summary::before{content:'▸ '}
+.ppt-reveal[open] summary::before{content:'▾ '}
+.ppt-answer-box{width:100%;min-height:96px;padding:12px;border:1px solid var(--ppt-line);background:#fff;color:inherit;font:inherit;resize:vertical;border-radius:2px}
+.ppt-overlay[data-course="843"] .ppt-answer-box{background:#fff}
+.ppt-selfeval{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0 8px;align-items:center}
+.ppt-selfeval button[aria-pressed=true]{background:var(--ppt-accent);color:var(--paper);border-color:var(--ppt-accent)}
+.ppt-nav{flex:none;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 28px 18px;border-top:1px solid var(--ppt-line);background:var(--paper)}
+.ppt-overlay[data-course="843"] .ppt-nav{background:#f7f9fb}
+.ppt-track{display:flex;gap:6px;flex-wrap:wrap;flex:1;justify-content:center}
+.ppt-track button{width:36px;height:32px;padding:0;border-radius:2px;font-size:13px;color:var(--muted,#62685e)}
+.ppt-track button[aria-current=true]{background:var(--ppt-accent);color:var(--paper);border-color:var(--ppt-accent)}
+.ppt-nav .ppt-step{display:flex;gap:10px}
+.ppt-page-label{color:var(--muted,#62685e);font-variant-numeric:tabular-nums;min-width:72px;text-align:right}
+.ppt-anim-tools{display:flex;gap:8px;margin:8px 0 18px;flex-wrap:wrap}
+.ppt-anim-tools button{font-size:14px;padding:5px 12px}
+.ppt-note{color:var(--muted,#62685e);font-size:15px}
+.ppt-links a{color:var(--ppt-accent)}
+@media (max-width:900px){.ppt-stage{padding:24px 18px}.ppt-bar,.ppt-nav{padding-left:14px;padding-right:14px}}
+@media print{.ppt-overlay{display:none!important}}

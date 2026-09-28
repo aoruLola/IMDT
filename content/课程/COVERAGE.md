@@ -1,0 +1,69 @@
+# 考点覆盖报告
+
+- 章节：18；教学小节：72。
+- 入门/应用例题：144；三类分离提示解析练习：216。
+- 历史要求：60；独立真题：17。
+- 2027 官方全文尚未取得，未完成新版逐条对齐；2018 仅作为历史范围核对，不沿用旧试卷结构。
+
+每行的例题与练习证据见 site/coverage.json，浏览版本见 site/coverage.html。
+
+- 高数一-1 函数与建模：function, elementary-atlas, optimization（历史条目已关联，2027待核验）
+- 高数一-2 函数性质：properties（历史条目已关联，2027待核验）
+- 高数一-3 复合、分段、反函数与隐式关系：composition, function, implicit-parametric（历史条目已关联，2027待核验）
+- 高数一-4 初等函数：elementary-atlas, composition, p-exp, p-trig（历史条目已关联，2027待核验）
+- 高数一-5 极限与单侧趋势：limit（历史条目已关联，2027待核验）
+- 高数一-6 极限法则：limit-rules（历史条目已关联，2027待核验）
+- 高数一-7 存在准则与重要极限：sequence, important-limits（历史条目已关联，2027待核验）
+- 高数一-8 无穷小的比较：important-limits（历史条目已关联，2027待核验）
+- 高数一-9 连续与间断：continuity（历史条目已关联，2027待核验）
+- 高数一-10 连续函数性质：continuity（历史条目已关联，2027待核验）
+- 高数二-1 导数微分意义与切法线：derivative, higher-differential, piecewise-derivative（历史条目已关联，2027待核验）
+- 高数二-2 求导法则与微分运算：derivative-rules, higher-differential（历史条目已关联，2027待核验）
+- 高数二-3 高阶导数：higher-differential（历史条目已关联，2027待核验）
+- 高数二-4 分段隐式参数反函数求导：piecewise-derivative, implicit-parametric, derivative-rules（历史条目已关联，2027待核验）
+- 高数二-5 中值与泰勒：rolle-lagrange, cauchy-proof, taylor（历史条目已关联，2027待核验）
+- 高数二-6 洛必达：lhopital（历史条目已关联，2027待核验）
+- 高数二-7 单调极值最值应用：monotone-extrema, optimization（历史条目已关联，2027待核验）
+- 高数二-8 凹凸拐点渐近线作图：shape（历史条目已关联，2027待核验）
+- 高数二-9 曲率与曲率圆：curvature（历史条目已关联，2027待核验）
+- 高数三-1 原函数与两类积分：primitive, riemann（历史条目已关联，2027待核验）
+- 高数三-2 积分公式性质与两种方法：primitive, substitution, parts, riemann, fundamental（历史条目已关联，2027待核验）
+- 高数三-3 有理三角根式积分：rational-integrals, substitution（历史条目已关联，2027待核验）
+- 高数三-4 变限积分与基本公式：fundamental（历史条目已关联，2027待核验）
+- 高数三-5 反常积分：improper（历史条目已关联，2027待核验）
+- 高数三-6 几何物理量与平均值：area-volume, length-surface, physical-integrals（历史条目已关联，2027待核验）
+- 高数四-1 多元函数与图像：multivariable-limit（历史条目已关联，2027待核验）
+- 高数四-2 极限连续与闭区域性质：multivariable-limit, multivariable-extrema（历史条目已关联，2027待核验）
+- 高数四-3 偏导全微分复合与隐式：partial-total, multivariable-chain（历史条目已关联，2027待核验）
+- 高数四-4 多元极值约束与应用：multivariable-extrema（历史条目已关联，2027待核验）
+- 高数四-5 二重积分：double-cartesian, double-order, double-polar（历史条目已关联，2027待核验）
+- 高数五-1 方程与初值概念：ode-separable（历史条目已关联，2027待核验）
+- 高数五-2 三类一阶方程：ode-separable, ode-first（历史条目已关联，2027待核验）
+- 高数五-3 降阶：ode-reduction（历史条目已关联，2027待核验）
+- 高数五-4 线性解结构：ode-linear（历史条目已关联，2027待核验）
+- 高数五-5 二阶及高阶常系数齐次：ode-linear, ode-higher-model（历史条目已关联，2027待核验）
+- 高数五-6 常系数非齐次：ode-forced（历史条目已关联，2027待核验）
+- 高数五-7 方程应用：ode-higher-model（历史条目已关联，2027待核验）
+- 线代一-1 行列式及性质：determinant（历史条目已关联，2027待核验）
+- 线代一-2 展开与计算：cofactor-inverse, determinant（历史条目已关联，2027待核验）
+- 线代二-1 矩阵与特殊矩阵：matrix-entry, special-blocks, orthogonal（历史条目已关联，2027待核验）
+- 线代二-2 矩阵运算：matrix-product, determinant（历史条目已关联，2027待核验）
+- 线代二-3 逆与伴随：cofactor-inverse, cramer（历史条目已关联，2027待核验）
+- 线代二-4 初等变换等价与秩：elimination, special-blocks, rank-basis（历史条目已关联，2027待核验）
+- 线代二-5 分块：special-blocks（历史条目已关联，2027待核验）
+- 线代三-1 向量与表示：span（历史条目已关联，2027待核验）
+- 线代三-2 相关与无关：span（历史条目已关联，2027待核验）
+- 线代三-3 极大无关组与秩：rank-basis（历史条目已关联，2027待核验）
+- 线代三-4 等价及行列秩：rank-basis（历史条目已关联，2027待核验）
+- 线代三-5 内积与正交化：orthogonal（历史条目已关联，2027待核验）
+- 线代四-1 克拉默：cramer（历史条目已关联，2027待核验）
+- 线代四-2 解的存在条件：homogeneous-system, nonhomogeneous-system（历史条目已关联，2027待核验）
+- 线代四-3 基础解系与齐次通解：homogeneous-system（历史条目已关联，2027待核验）
+- 线代四-4 非齐次解结构：nonhomogeneous-system（历史条目已关联，2027待核验）
+- 线代四-5 消元解方程：elimination, parameter-system（历史条目已关联，2027待核验）
+- 线代五-1 特征值与特征向量：eigen（历史条目已关联，2027待核验）
+- 线代五-2 相似与对角化：diagonalization（历史条目已关联，2027待核验）
+- 线代五-3 对称矩阵：symmetric-eigen（历史条目已关联，2027待核验）
+- 线代六-1 二次型表示与合同：quadratic-form（历史条目已关联，2027待核验）
+- 线代六-2 标准形惯性与化简：quadratic-form（历史条目已关联，2027待核验）
+- 线代六-3 正定：positive-definite（历史条目已关联，2027待核验）

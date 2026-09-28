@@ -1,0 +1,13 @@
+.env
+**/node_modules/
+/dist/
+/exports/
+**/.pydeps/
+**/__pycache__/
+content/课程/sources/*-*.png
+content/课程/site/
+content/课程/.preview-pid
+content/课程/preview*.log
+content/843/site/
+content/843/tooling/.compiler/
+content/843/tooling/.verification/

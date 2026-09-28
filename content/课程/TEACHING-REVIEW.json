@@ -1,0 +1,463 @@
+{
+  "date": "2026-09-17",
+  "lessons": {
+    "p-algebra": {
+      "file": "chapters/00-prep.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "p-sets": {
+      "file": "chapters/00-prep.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "p-graph": {
+      "file": "chapters/00-prep.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "p-exp": {
+      "file": "chapters/00-prep.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "p-trig": {
+      "file": "chapters/00-prep.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "p-logic": {
+      "file": "chapters/00-prep.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "function": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解",
+        "推导"
+      ]
+    },
+    "properties": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解",
+        "推导",
+        "例题1",
+        "例题2",
+        "练习2"
+      ]
+    },
+    "composition": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "limit": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "sequence": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "limit-rules": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "important-limits": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "continuity": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "elementary-atlas": {
+      "file": "chapters/01-limits.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "derivative": {
+      "file": "chapters/02-derivatives.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "derivative-rules": {
+      "file": "chapters/02-derivatives.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "implicit-parametric": {
+      "file": "chapters/02-derivatives.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "higher-differential": {
+      "file": "chapters/02-derivatives.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "piecewise-derivative": {
+      "file": "chapters/02-derivatives.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "rolle-lagrange": {
+      "file": "chapters/03-mean-value.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "cauchy-proof": {
+      "file": "chapters/03-mean-value.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "taylor": {
+      "file": "chapters/03-mean-value.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "lhopital": {
+      "file": "chapters/03-mean-value.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "monotone-extrema": {
+      "file": "chapters/04-applications.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "shape": {
+      "file": "chapters/04-applications.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "curvature": {
+      "file": "chapters/04-applications.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "optimization": {
+      "file": "chapters/04-applications.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "primitive": {
+      "file": "chapters/05-antiderivatives.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "substitution": {
+      "file": "chapters/05-antiderivatives.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "parts": {
+      "file": "chapters/05-antiderivatives.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "rational-integrals": {
+      "file": "chapters/05-antiderivatives.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "riemann": {
+      "file": "chapters/06-definite.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "fundamental": {
+      "file": "chapters/06-definite.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "improper": {
+      "file": "chapters/06-definite.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "area-volume": {
+      "file": "chapters/07-integral-applications.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "length-surface": {
+      "file": "chapters/07-integral-applications.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "physical-integrals": {
+      "file": "chapters/07-integral-applications.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "multivariable-limit": {
+      "file": "chapters/08-multivariable.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "partial-total": {
+      "file": "chapters/08-multivariable.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "multivariable-chain": {
+      "file": "chapters/08-multivariable.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "multivariable-extrema": {
+      "file": "chapters/08-multivariable.md",
+      "fields": [
+        "讲解",
+        "推导"
+      ]
+    },
+    "double-cartesian": {
+      "file": "chapters/09-double-integrals.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "double-order": {
+      "file": "chapters/09-double-integrals.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "double-polar": {
+      "file": "chapters/09-double-integrals.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "ode-separable": {
+      "file": "chapters/10-ode.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "ode-first": {
+      "file": "chapters/10-ode.md",
+      "fields": [
+        "讲解",
+        "例题2"
+      ]
+    },
+    "ode-reduction": {
+      "file": "chapters/10-ode.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "ode-linear": {
+      "file": "chapters/10-ode.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "ode-forced": {
+      "file": "chapters/10-ode.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "ode-higher-model": {
+      "file": "chapters/10-ode.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "matrix-entry": {
+      "file": "chapters/11-matrices.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "matrix-product": {
+      "file": "chapters/11-matrices.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "elimination": {
+      "file": "chapters/11-matrices.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "special-blocks": {
+      "file": "chapters/11-matrices.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "determinant": {
+      "file": "chapters/12-determinants.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "cofactor-inverse": {
+      "file": "chapters/12-determinants.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "cramer": {
+      "file": "chapters/12-determinants.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "span": {
+      "file": "chapters/13-vectors.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "rank-basis": {
+      "file": "chapters/13-vectors.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "orthogonal": {
+      "file": "chapters/13-vectors.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "homogeneous-system": {
+      "file": "chapters/14-systems.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "nonhomogeneous-system": {
+      "file": "chapters/14-systems.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "parameter-system": {
+      "file": "chapters/14-systems.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "eigen": {
+      "file": "chapters/15-eigen.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "diagonalization": {
+      "file": "chapters/15-eigen.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "symmetric-eigen": {
+      "file": "chapters/15-eigen.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "quadratic-form": {
+      "file": "chapters/16-quadratic.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "positive-definite": {
+      "file": "chapters/16-quadratic.md",
+      "fields": [
+        "讲解",
+        "例题1"
+      ]
+    },
+    "review-methods": {
+      "file": "chapters/17-review.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "review-proof": {
+      "file": "chapters/17-review.md",
+      "fields": [
+        "讲解"
+      ]
+    },
+    "review-parameters": {
+      "file": "chapters/17-review.md",
+      "fields": [
+        "讲解"
+      ]
+    }
+  }
+}

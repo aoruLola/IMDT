@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 195" role="img" aria-labelledby="interval-title interval-desc"><title id="interval-title">数轴上读懂区间</title><desc id="interval-desc">从1到2的线段。两端是空心圆，表示1和2都不取，中间的数都可以取。</desc><style>text{font-family:"Microsoft YaHei",sans-serif;fill:#242923;font-size:20px}.axis{fill:none;stroke:#8c9389;stroke-width:1.4}.guide{fill:none;stroke:#a8b5aa;stroke-width:1.5;stroke-dasharray:5 5}.curve{fill:none;stroke:#365d49;stroke-width:3}.point{fill:#365d49;stroke:#f8f7f3;stroke-width:2}.hole{fill:#f8f7f3;stroke:#365d49;stroke-width:3}</style>
+    <path class="axis" d="M35 90H525M515 85L525 90L515 95"/>
+    <path class="curve" d="M180 90H380" style="stroke-width:5"/>
+    <circle class="hole" cx="180" cy="90" r="7"/><circle class="hole" cx="380" cy="90" r="7"/>
+    <text x="180" y="127" text-anchor="middle">1</text><text x="380" y="127" text-anchor="middle">2</text>
+    <text x="280" y="49" text-anchor="middle">中间的数可以取</text>
+    <text x="280" y="168" text-anchor="middle">空心圆：端点不取</text></svg>

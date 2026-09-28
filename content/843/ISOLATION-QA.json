@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    "old math migration",
+    "843 excludes old math",
+    "independent starts",
+    "focused timer",
+    "handoff no overlap",
+    "independent pause",
+    "quick reopen excludes closed gap",
+    "part persisted",
+    "part undo",
+    "part not lesson read",
+    "part namespace"
+  ],
+  "checkedAt": "2026-09-23T15:47:00.353Z"
+}
